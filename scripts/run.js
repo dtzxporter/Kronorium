@@ -74,4 +74,17 @@ $(document).ready(function()
         gradients: false,
         autoCenter: true
 	});
+    // Load sounds
+    var OpenSound = new Howl({
+        src: ['open.mp3', 'open.wav', 'open.ogg']
+    });
+    var CloseSound = new Howl({
+        src: ['close.mp3', 'close.wav', 'close.ogg']
+    })
+    // Hook turning event
+    $("#kronorium").bind("turning", function(event, page, view)
+    {
+        // When turning to page 2, play open, page 1 = close
+        OpenSound.play();
+    });
 });
