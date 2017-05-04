@@ -1,0 +1,69 @@
+body {
+	overflow: hidden;
+	background-color:#101010;
+    font-family: 'Kaushan Script', cursive;
+    color:#242520;
+	margin:0;
+	padding:0;
+}
+
+.date-head {
+    margin: 0;
+}
+
+.event-text {
+    margin: 0;
+}
+
+.kron-base-left {
+    padding: 4px 45px 0px 68px;
+    margin-top: 48px;
+}
+
+.kron-base-right {
+    padding: 4px 80px 0px 48px;
+    margin-top: 48px;
+}
+
+.event-space {
+    height: 15px;
+}
+
+.flipbook-viewport {
+	overflow:hidden;
+	width:100%;
+	height:100%;
+}
+
+.flipbook-viewport .container {
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin:auto;
+}
+
+.flipbook-viewport .flipbook {
+	width:922px;
+	height:600px;
+	left:-461px;
+	top:-300px;
+}
+
+.flipbook-viewport .page {
+	width:461px;
+	height:600px;
+	background-color:transparent;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+
+.flipbook-viewport .page img {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	margin:0;
+}
+
