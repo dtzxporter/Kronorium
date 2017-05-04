@@ -76,10 +76,10 @@ $(document).ready(function()
 	});
     // Load sounds
     var OpenSound = new Howl({
-        src: ['open.mp3', 'open.wav', 'open.ogg']
+        src: ['sound/open.mp3', 'sound/open.wav', 'sound/open.ogg']
     });
     var CloseSound = new Howl({
-        src: ['close.mp3', 'close.wav', 'close.ogg']
+        src: ['sound/close.mp3', 'sound/close.wav', 'sound/close.ogg']
     })
     // Hook turning event
     $("#kronorium").bind("turning", function(event, page, view)
