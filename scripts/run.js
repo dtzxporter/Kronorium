@@ -14,7 +14,7 @@ var FlipSound = null;
 $(document).ready(function()
 {
     // We must load the specific JSON source for our language (EN for now)
-    $.get('data/en.js', function(data)
+    $.get('data/en.json', function(data)
     {
         // Set it
         KronoriumSource = JSON.parse(data);
