@@ -24,6 +24,18 @@ var KronoriumSource = {
 // TODO: Index with quick links to specific map's pages (Images will work awesome!)
 // TODO: The rest of the damn book
 
+// Load sounds (Open / close / flip)
+var OpenSound = new Howl({
+    src: ['sound/open.mp3', 'sound/open.wav', 'sound/open.ogg'],
+    onload: function() { SetupInitialAnim(); }
+});
+var CloseSound = new Howl({
+    src: ['sound/close.mp3', 'sound/close.wav', 'sound/close.ogg']
+});
+var FlipSound = new Howl({
+    src: ['sound/flip.mp3', 'sound/flip.wav', 'sound/flip.ogg']
+});
+
 $(document).ready(function()
 {
     // Inject pages based on the template
@@ -74,17 +86,30 @@ $(document).ready(function()
         gradients: false,
         autoCenter: true
 	});
-    // Load sounds
-    var OpenSound = new Howl({
-        src: ['sound/open.mp3', 'sound/open.wav', 'sound/open.ogg']
-    });
-    var CloseSound = new Howl({
-        src: ['sound/close.mp3', 'sound/close.wav', 'sound/close.ogg']
-    })
-    // Hook turning event
+    // Disable it for the opening effect
+    $("#kronorium").turn("disable", true);
+});
+
+function SetupInitialAnim() {
+    // Add the shake effect, play sound, then countdown to open
+    $('#kronorium').addClass('shake shake-constant');
+    // Play
+    OpenSound.play();
+    // Time
+    setTimeout(EnableBookOpen, 1600);
+}
+
+function EnableBookOpen() {
+    // Enable the book, open to first page, stop shake
+    $('#kronorium').removeClass('shake shake-constant');
+    // Enable
+    $("#kronorium").turn("disable", false);
+    // Turn
+    $("#kronorium").turn("page", 2);
+    // Hook page turning
     $("#kronorium").bind("turning", function(event, page, view)
     {
-        // When turning to page 2, play open, page 1 = close
-        OpenSound.play();
+        // If we turned, we can play it (Unless to closed, then play closed)
+        if (page > 2) { FlipSound.play(); }
     });
-});
+}
