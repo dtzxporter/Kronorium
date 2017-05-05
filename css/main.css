@@ -1,6 +1,7 @@
 body {
 	overflow: hidden;
 	background-color:#101010;
+	background-repeat: no-repeat;
     font-family: 'Kaushan Script', cursive;
     color:#242520;
 	margin:0;
