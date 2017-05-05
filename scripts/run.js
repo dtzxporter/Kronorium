@@ -34,7 +34,7 @@ function SetupArrowKeys() {
             case 37: // left / go back
             $("#kronorium").turn("previous");
             break;
-            case 40: // right / go forward
+            case 39: // right / go forward
             $("#kronorium").turn("next");
             break;
             default: return; // cancel for other keys
