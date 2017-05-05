@@ -15,25 +15,17 @@ var FlipSound = null;
 $(document).ready(function()
 {
     // We must load the specific JSON source for our language (EN for now)
-    ReadyLoad();
+    $.get(('data/en.json'), BeginLoad).fail(DisplayFail);
 });
 
-function ReadyLoad() {
-    var xhttp = new XMLHttpRequest();
-    xhttp.onreadystatechange = function()
-    {
-        if (this.readyState == 4 && this.status == 200)
-        {
-            BeginLoad(this.responseText);
-        }
-    };
-    xhttp.open("GET", (BaseUrl + 'en.json'), true);
-    xhttp.send();
+function DisplayFail() {
+    // TODO: Display an error that we couldn't load the language defs
+
 }
 
 function BeginLoad(data) {
     // Set it
-    KronoriumSource = JSON.parse(data);
+    KronoriumSource = data;
     // Setup page
     SetupPage();
     // Load sounds
