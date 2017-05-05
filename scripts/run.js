@@ -15,27 +15,39 @@ var FlipSound = null;
 $(document).ready(function()
 {
     // We must load the specific JSON source for our language (EN for now)
-    $.get(BaseUrl + 'en.json', function(data)
-    {
-        // Log
-        console.log(data);
-        // Set it
-        KronoriumSource = data;
-        // Setup page
-        SetupPage();
-        // Load sounds
-        OpenSound = new Howl({
-            src: ['sound/open.mp3', 'sound/open.wav', 'sound/open.ogg'],
-            onload: function() { SetupInitialAnim(); }
-        });
-        CloseSound = new Howl({
-            src: ['sound/close.mp3', 'sound/close.wav', 'sound/close.ogg']
-        });
-        FlipSound = new Howl({
-            src: ['sound/flip.mp3', 'sound/flip.wav', 'sound/flip.ogg']
-        });
-    });
+    ReadyLoad();
 });
+
+function ReadyLoad() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function()
+    {
+        if (this.readyState == 4 && this.status == 200)
+        {
+            BeginLoad(this.responseText);
+        }
+    };
+    xhttp.open("GET", (BaseUrl + 'en.json'), true);
+    xhttp.send();
+}
+
+function BeginLoad(data) {
+    // Set it
+    KronoriumSource = JSON.parse(data);
+    // Setup page
+    SetupPage();
+    // Load sounds
+    OpenSound = new Howl({
+        src: ['sound/open.mp3', 'sound/open.wav', 'sound/open.ogg'],
+        onload: function() { SetupInitialAnim(); }
+    });
+    CloseSound = new Howl({
+        src: ['sound/close.mp3', 'sound/close.wav', 'sound/close.ogg']
+    });
+    FlipSound = new Howl({
+        src: ['sound/flip.mp3', 'sound/flip.wav', 'sound/flip.ogg']
+    });
+}
 
 function SetupPage() {
     // Inject pages based on the template
