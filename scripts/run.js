@@ -55,8 +55,8 @@ function BeginLoad(data) {
     }
     // Setup page
     SetupPage();
-    // Wait 1.5s to start
-    setTimeout(BeginPage, 1500);
+    // Wait 1s to start
+    setTimeout(BeginPage, 1000);
     // Hook keys
     SetupArrowKeys();
 }
