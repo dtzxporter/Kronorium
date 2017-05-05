@@ -1,13 +1,14 @@
-// The book data (Starts from first page (right hand side))
+// The book data
 var KronoriumSource = '';
 var CurrentLanguage = 'en';
 
 // TODO: Images
+// TODO: Language selector
+// TODO: Error popups
 
+// RULES:
 // Make sure pages don't overflow! Use images if necessary to fill gaps.
-
 // TRIPLE CHECK THAT YOU DIDN'T MISS AN ENTRY!!
-
 // Recommended for data editing: http://www.jsoneditoronline.org/
 
 // Load sounds (Open / close / flip)
@@ -17,7 +18,7 @@ var FlipSound = null;
 
 $(document).ready(function()
 {
-    // We must load the specific JSON source for our language (EN for now)
+    // We must load the specific JSON source for our language
     $.get(('data/' + CurrentLanguage + '/story.json'), BeginLoad).fail(DisplayFail);
 });
 
@@ -179,7 +180,7 @@ function EnableBookOpen() {
     // Hook page turning
     $("#kronorium").bind("turning", function(event, page, view)
     {
-        // If we turned, we can play it (Unless to closed, then play closed)
+        // If we turned, we can play it (Unless to closed, (figure out a better closed sound))
         if (page > 2) { FlipSound.play(); }
     });
 }
