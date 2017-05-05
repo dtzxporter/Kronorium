@@ -18,7 +18,7 @@ $(document).ready(function()
     $.get(BaseUrl + 'en.json', function(data)
     {
         // Set it
-        KronoriumSource = JSON.parse(data);
+        KronoriumSource = data;
         // Setup page
         SetupPage();
         // Load sounds
@@ -32,9 +32,6 @@ $(document).ready(function()
         FlipSound = new Howl({
             src: ['sound/flip.mp3', 'sound/flip.wav', 'sound/flip.ogg']
         });
-    }).fail(function()
-    {
-        // TODO: Display we had an issue loading the language definitions
     });
 });
 
