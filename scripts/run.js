@@ -26,6 +26,24 @@ function DisplayFail() {
 
 }
 
+function SetupArrowKeys() {
+    // Hook left / right keys for easy navigation
+    $(document).keydown(function(e) {
+        // Check key
+        switch (e.which) {
+            case 37: // left / go back
+            $("#kronorium").turn("previous");
+            break;
+            case 40: // right / go forward
+            $("#kronorium").turn("next");
+            break;
+            default: return; // cancel for other keys
+        }
+        // Stop default action
+        e.preventDefault();
+    });
+}
+
 function BeginLoad(data) {
     // Set it
     if (typeof data === 'string') {
@@ -50,6 +68,8 @@ function BeginLoad(data) {
         src: ['sound/flip.mp3', 'sound/flip.wav', 'sound/flip.ogg'],
         volume: 0.5
     });
+    // Hook keys
+    SetupArrowKeys();
 }
 
 function JumpPage(page) {
