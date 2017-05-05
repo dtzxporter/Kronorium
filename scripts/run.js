@@ -55,7 +55,14 @@ function BeginLoad(data) {
     }
     // Setup page
     SetupPage();
-    // Load sounds
+    // Wait 1.5s to start
+    setTimeout(BeginPage, 1500);
+    // Hook keys
+    SetupArrowKeys();
+}
+
+function BeginPage() {
+    // Load sounds / begin
     OpenSound = new Howl({
         src: ['sound/open.mp3', 'sound/open.wav', 'sound/open.ogg'],
         onload: function() { SetupInitialAnim(); },
@@ -69,8 +76,6 @@ function BeginLoad(data) {
         src: ['sound/flip.mp3', 'sound/flip.wav', 'sound/flip.ogg'],
         volume: 0.5
     });
-    // Hook keys
-    SetupArrowKeys();
 }
 
 function JumpPage(page) {
