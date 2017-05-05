@@ -17,6 +17,8 @@ $(document).ready(function()
     // We must load the specific JSON source for our language (EN for now)
     $.get(BaseUrl + 'en.json', function(data)
     {
+        // Log
+        console.log(data);
         // Set it
         KronoriumSource = data;
         // Setup page
