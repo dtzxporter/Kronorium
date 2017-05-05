@@ -1,5 +1,6 @@
 // The book data (Starts from first page (right hand side))
 var KronoriumSource = '';
+var BaseUrl = 'https://dtzxporter.github.io/Kronorium/data/';
 
 // General rule of thumb: Format so we have a left and a right page before the end, so it looks natural.
 
@@ -14,7 +15,7 @@ var FlipSound = null;
 $(document).ready(function()
 {
     // We must load the specific JSON source for our language (EN for now)
-    $.get('data/en.json', function(data)
+    $.get(BaseUrl + 'en.json', function(data)
     {
         // Set it
         KronoriumSource = JSON.parse(data);
