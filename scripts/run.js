@@ -28,7 +28,12 @@ function DisplayFail() {
 
 function BeginLoad(data) {
     // Set it
-    KronoriumSource = JSON.parse(data);
+    if (typeof data === 'string') {
+        KronoriumSource = JSON.parse(data);
+    }
+    else {
+        KronoriumSource = data;
+    }
     // Setup page
     SetupPage();
     // Load sounds

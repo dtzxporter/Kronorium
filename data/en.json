@@ -1,19 +1,363 @@
 {
-    "0" : [
-        { "date": "IN THE BEGINNING", "event": "There was only the Aether and the Keepers. Among them were two beings who would later be known by many names. One would be known as Doctor Monty, the other as the Shadowman" },
-        { "date": "SEPTEMBER 3RD, 5AD", "event": "Knowing the planet has a gateway to Agartha, the Apothicons send meteors of Element 115 to Earth. They believe humanity will one day use Element 115 to wage war amongst themselves, opening a rift that will allow the Apothicons to escape the Dark Aether." },
-        { "date": "JANUARY 15TH, 1292", "event": "The Great War between humanity and the Apothicons begins." },
-        { "date": "APRIL 14TH, 1294", "event": "Sir Pablo Marinus is saved from the clutches of a Margwa by the four unknown heroes. They would later become known as Primis." }
-    ],
-    "1" : [
-        { "date": "DECEMBER 32ST, 1299", "event": "Together with the Keepers, Primis defeats the Apothicons, bringing the Great War to an end." },
-        { "date": "JANUARY 1ST, 1300", "event": "Before they seemingly disappear from history, Primis instructs the Wolf King to begin building Der Eisendrache." },
-        { "date": "SEPTEMBER 19TH, 1318", "event": "Honoring the Wolf King's dying request, his loyal servant Arthur scatters and buries his bones in the grounds of Der Eisendrache, accompanied by the King's Wolf." },
-        { "date": "SEPTEMBER 20th, 1318", "event": "Temporal Rifts teleport Arthur to Resolution 1295 in 2025 Angola." },
-        { "date": "JUNE 30TH, 1908", "event": "A meteor containing Element 115 crashes near the Stony Tunguska River." }
-    ],
-    "2" : [
-        { "date": "AUGUST 30TH, 1925", "event": "Doctor Edward Richtofen joins the Illuminati." },
-        { "date": "FEBRUARY 4TH, 1931", "event": "Large deposits of Element 115 are discovered near Breslau Germany. Doctor Ludvig Maxis, a german scientist, is sent to investigate." }
-    ]
+  "0": [
+    {
+      "date": "IN THE BEGINNING",
+      "event": "There was only the Aether and the Keepers. Among them were two beings who would later be known by many names. One would be known as Doctor Monty, the other as the Shadowman"
+    },
+    {
+      "date": "SEPTEMBER 3RD, 5AD",
+      "event": "Knowing the planet has a gateway to Agartha, the Apothicons send meteors of Element 115 to Earth. They believe humanity will one day use Element 115 to wage war amongst themselves, opening a rift that will allow the Apothicons to escape the Dark Aether."
+    },
+    {
+      "date": "JANUARY 15TH, 1292",
+      "event": "The Great War between humanity and the Apothicons begins."
+    },
+    {
+      "date": "APRIL 14TH, 1294",
+      "event": "Sir Pablo Marinus is saved from the clutches of a Margwa by the four unknown heroes. They would later become known as Primis."
+    }
+  ],
+  "1": [
+    {
+      "date": "DECEMBER 32ST, 1299",
+      "event": "Together with the Keepers, Primis defeats the Apothicons, bringing the Great War to an end."
+    },
+    {
+      "date": "JANUARY 1ST, 1300",
+      "event": "Before they seemingly disappear from history, Primis instructs the Wolf King to begin building Der Eisendrache."
+    },
+    {
+      "date": "SEPTEMBER 19TH, 1318",
+      "event": "Honoring the Wolf King's dying request, his loyal servant Arthur scatters and buries his bones in the grounds of Der Eisendrache, accompanied by the King's Wolf."
+    },
+    {
+      "date": "SEPTEMBER 20th, 1318",
+      "event": "Temporal Rifts teleport Arthur to Resolution 1295 in 2025 Angola."
+    },
+    {
+      "date": "JUNE 30TH, 1908",
+      "event": "A meteor containing Element 115 crashes near the Stony Tunguska River."
+    }
+  ],
+  "2": [
+    {
+      "date": "AUGUST 30TH, 1925",
+      "event": "Doctor Edward Richtofen joins the Illuminati."
+    },
+    {
+      "date": "FEBRUARY 4TH, 1931",
+      "event": "Large deposits of Element 115 are discovered near Breslau Germany. Doctor Ludvig Maxis, a german scientist, is sent to investigate."
+    },
+    {
+      "date": "MAY 10TH, 1931",
+      "event": "Maxis forms Group 935, an experimental organization dedicated to the study of Element 115. Maxis tells his scientists they \"represent the future of technological advancement\" and will be \"pioneers of human discovery.\" The group swears to work in secrecy from their respective governments. As Maxis says, \"we cannot afford to let this power fall into the wrong hands.\""
+    },
+    {
+      "date": "NOVEMBER 5TH, 1934",
+      "event": "Samantha Maxis is born. Her mother dies in childbirth."
+    }
+  ],
+  "3": [
+    {
+      "date": "AUGUST 11TH, 1936",
+      "event": "Maxis invites Richtofen to join Group 935. He agrees, secretly acting on behalf of the Illuminati’s interests."
+    },
+    {
+      "date": "APRIL 10TH, 1937",
+      "event": "The Imperial Japanese Army discovers Element 115 meteor fragments in a swamp within Japanese territories. They build the Rising Sun Facility to continue research. Division 9 is created to oversee its operation."
+    },
+    {
+      "date": "JUNE 14TH, 1937",
+      "event": "The United States Government discovers deposits of Element 115 at Groom Lake, Nevada."
+    },
+    {
+      "date": "JULY 2ND, 1939",
+      "event": "Maxis and Richtofen begin teleportation experiments with the Matter Transference Prototype, to mild success. The subjects are teleported, but their chemical composition is altered, leaving them catatonic and changed."
+    }
+  ],
+  "4": [
+    {
+      "date": "AUGUST 5TH, 1939",
+      "event": "Using Element 115, Maxis and Richtofen resurrect one of the teleported corpses for the first time. Initially it obeys, but soon becomes rabid and attacks them. The test subject is euthanized."
+    },
+    {
+      "date": "SEPTEMBER 3RD, 1939",
+      "event": "Richtofen begins development of the Wunderwaffe DG-2."
+    },
+    {
+      "date": "NOVEMBER 23RD, 1939",
+      "event": "Maxis turns to the Reichstag for additional fundraising. Germany agrees to the request, expressing interest in their weapons research, teleportation technology, and the reanimated undead subjects."
+    },
+    {
+      "date": "DECEMBER 4TH, 1939",
+      "event": "During Test Trial 151, Richtofen and Doctor Schuster successfully teleport a walnut. This is first successful test where the chemical composition of the object is maintained throughout the process."
+    }
+  ],
+  "5": [
+    {
+      "date": "DECEMBER 4TH, 1939",
+      "event": "During Test Trial 151, Richtofen and Doctor Schuster successfully teleport a walnut. This is first successful test where the chemical composition of the object is maintained throughout the process."
+    },
+    {
+      "date": "DECEMBER 5TH, 1939",
+      "event": "\"Edward’s Walnut Delivery\" fails to impress Maxis, who declares it was a waste of time. He reveals to Richtofen that Group 935 will soon be funded by Germany. Richtofen worries this will lead to massive defections, he and Schuster decide to continue their teleportation experiments behind Maxis’ back."
+    },
+    {
+      "img": "<div class='center-img'><img style='width: 175px;height: 152px;' src='images/content/walnut.png'></div>"
+    }
+  ],
+  "6": [
+    {
+      "date": "JANUARY 4TH, 1940",
+      "event": "Richtofen and Schuster conduct their first human teleportation test Richtofen is so confident in its success, he volunteers the MPD, the Aether Pyramid hidden by the Apothicons. While inspecting the device Richtofen is electrocuted and begins hearing the many voices of corruption including that of the Shadowman. The device then teleports him to Shangri-La. Corrupted by the Dark Aether, Richtofen is gradually being driven insane by an obsession find Agartha."
+    },
+    {
+      "date": "JANUARY 5TH, 1940",
+      "event": "Richtofen is worshipped by the natives of Shangri-La: an altar is built in his name. Richtofen encounters the Focusing Stone for the first time."
+    },
+    {
+      "date": "JANUARY 23TH, 1940",
+      "event": "After a near month absence Richtofen returns to Schuster with a plan to build Griffin Station."
+    }
+  ],
+  "7": [
+    {
+      "date": "JANUARY 24TH, 1940",
+      "event": "Richtofen renounces his involvement with the Illuminati. When asked how he could abandon his obligation to the order he says, \"Teddy was a liar.\""
+    },
+    {
+      "date": "MARCH 13TH, 1940",
+      "event": "Construction of Griffin Station on the Moon begins. Frustrated with Maxis’ alignment with Germany, other disgruntled Group 935 scientists join the cause."
+    },
+    {
+      "date": "JULY 13TH, 1940",
+      "event": "Maxis instructs his assistant Sophia to write a letter to the Reichstag High Command requesting additional funds. Though he reports that mass production will soon be under way shortly, Der Reise lacks not only the funding, but sufficient volumes of Element 115."
+    },
+    {
+      "date": "AUGUST 1ST, 1940",
+      "event": "In response to Maxis’ request, Germany creates two new facilities for Group 935. They are the Kino Facility, a repurposed theatre, and the Asylum Facility at the Wittenau Sanatorium in Berlin."
+    }
+  ],
+  "8": [
+    {
+      "date": "AUGUST 18TH, 1940",
+      "event": "As per Germany’s request, the Japanese Imperial Army hands over the Rising Sun Facility to Group 935. Division 9 remains involved on site."
+    },
+    {
+      "date": "OCTOBER 3RD, 1940",
+      "event": "Group 935 establishes a research facility in Siberia near the Tunguska River."
+    },
+    {
+      "date": "JUNE 24TH, 1941",
+      "event": "Nikolai Belinski’s wife is killed during the German advance into the Soviet Union. In an effort to numb the pain, Nikolai increasingly turns to Vodka."
+    },
+    {
+      "date": "JANUARY 11TH 1942",
+      "event": "Maxis gives Fluffy to Samantha. The dog is expecting a litter."
+    },
+    {
+      "date": "JANUARY 20TH 1942",
+      "event": "Maxis tests the first file for storage on the data servant."
+    }
+  ],
+  "9": [
+    {
+      "date": "JANUARY 26TH 1942",
+      "event": "On the data servant, Maxis catalogs locations with prominent Element 115 deposits. He includes information about its various applications and cities that the reanimation of dead cells is a possible side effect."
+    },
+    {
+      "date": "JANUARY 30TH 1942",
+      "event": "Richtofen completes the Wunderwaffe DG-2 prototype."
+    },
+    {
+      "date": "FEBRUARY 1ST 1942",
+      "event": "With Griffin Station completed Richtofen names Doctor Groph lead scientist and returns to Earth to continue the charade with Maxis. Working alongside Schuster Groph is left to discover the power of the MPD."
+    },
+    {
+      "date": "FEBRUARY 2ND 1942",
+      "event": "In a speech to his staff, Groph talks optimistically about Griffin Station’s establishment as a permanent base of operations."
+    }
+  ],
+  "10": [
+    {
+      "date": "APRIL 17TH 1942",
+      "event": "Maxis develops the Ray Gun prototype at the Rising Sun Facility. H. Porter works on developing the 2nd Generation Model."
+    },
+    {
+      "date": "JUNE 13TH 1942",
+      "event": "A result of temporal rifts in 1963 Kino, Monty reaches across time and offers little nudges. One nudge is developing Group 935’s Element 115 fused elixirs. They create four medicinal beverages known colloquially as Juggernog, Quick Revive, Speed Cola, and Double Tap."
+    },
+    {
+      "date": "JUNE 28TH 1942",
+      "event": "Group 935 continues development of a weapons upgrade machine."
+    }
+  ],
+  "11": [
+    {
+      "date": "JULY 18TH 1942",
+      "event": "Groph and Schuster unwittingly discover how to charge the MPD. When Schuster killas a rat near the device, its death inexplicably begins filling the tank, charging the device. They report their findings to Richtofen."
+    },
+    {
+      "date": "JULY 20TH 1942",
+      "event": "Richtofen begins sending soldiers and scientists to the moon to be sacrificed; their souls used to charge the MPD."
+    },
+    {
+      "date": "NOVEMBER 5TH 1942",
+      "event": "Takeo Masaki is dispatched by the Emperor to oversee the work of Group 935 and Division 9 at the Rising Sun Facility."
+    },
+    {
+      "date": "DECEMBER 8TH 1942",
+      "event": "Richtofen shares the Element 115-based Elixir Recipes with Griffin Station. They develop Mule Kick."
+    }
+  ],
+  "12": [
+    {
+      "date": "DECEMBER 9TH 1942",
+      "event": "Nikolai’s brother is killed in the Battle of Stalingrad."
+    },
+    {
+      "date": "DECEMBER 14TH 1942",
+      "event": "Richtofen creates the Monkey Bomb."
+    },
+    {
+      "date": "DECEMBER 16TH 1942",
+      "event": "In a personal log, Maxis expresses concern over Element 115’s impact on Richtofen’s behavior. No longer trusting him, he wonders if it was a mistake to invite him to Group 935."
+    },
+    {
+      "date": "DECEMBER 20TH 1942",
+      "event": "Accompanied by Sophia, Maxis is transferred to the Kino facility to focus on creating Germany’s undead army. Samantha is left in Richtofen’s care."
+    },
+    {
+      "date": "JANUARY 8TH 1943",
+      "event": "Maxis worries he and Sophia have grown too close. He considers sending her away."
+    }
+  ],
+  "13": [
+    {
+      "date": "JANUARY 16TH 1943",
+      "event": "Nikolai is captured by German Forces during the Battle of Stalingrad. He becomes a subject in Group 935 experiments."
+    },
+    {
+      "date": "JANUARY 27TH 1943",
+      "event": "Maxis reports success with Subject Two-Six, whose \"violent outbursts have been greatly reduced.\" Maxis believes \"this method of treatment will be 100 percent effective in most cases.\""
+    },
+    {
+      "date": "FEBRUARY 2ND 1943",
+      "event": "The Battle Stalingrad ends."
+    },
+    {
+      "date": "FEBRUARY 10TH 1943",
+      "event": "Maxis reports the treatment has been perfected. He believes if \"Subject Two-Six can retain the impressions longer than twenty-six hours, then the delivery of the zombie army can be accelerated.\""
+    }
+  ],
+  "14": [
+    {
+      "date": "FEBRUARY 12TH 1943",
+      "event": "After attacking a handler, Subject Two-Six is killed and deemed \"another setback.\""
+    },
+    {
+      "date": "MAY 18TH 1943",
+      "event": "Harvey Yena begins his work with Group 935."
+    },
+    {
+      "date": "JUNE 4TH 1943",
+      "event": "Primis arrives from Dimension 63. In an effort to prevent the events that are about to unfold they formulate a plan to stop this dimension’s Richtofen."
+    },
+    {
+      "date": "JUNE 11TH 1943",
+      "event": "Richtofen is contacted from the House by Maxis, who warns that \"The test subjects must never be allowed to be awakened, the havoc that could be awakened upon the future by such simple-minded individuals would be catastrophic.\""
+    }
+  ],
+  "15": [
+    {
+      "date": "JUNE 15TH 1943",
+      "event": "Takeo reports to the Emperor that the work being done at the Rising Sun Facility is \"unacceptable.\""
+    },
+    {
+      "date": "JUNE 19TH 1943",
+      "event": "Primis Richtofen is teleported to the House in Agartha, reuniting him with Maxis."
+    },
+    {
+      "date": "JUNE 24TH 1943",
+      "event": "On the orders of the Emperor, Takeo is taken prisoner by Group 935 and Division 9. He is used as a test subject for experiments."
+    },
+    {
+      "date": "JULY 14TH 1944",
+      "event": "After the setbacks with Subject Two-Six, Maxis reports new success with the undead Army. However, he maintains his belief that the undead cannot be controlled or maintained."
+    },
+    {
+      "date": "SEPTEMBER 2ND 1944",
+      "event": "Pablo Manius, a Mexican Spy, is captured by Group 935 at Der Eisendrache."
+    }
+  ],
+  "16": [
+    {
+      "date": "MAY 9TH 1945",
+      "event": "In his cell, Pablo writes of visions of a great war. He describes a \"great battle against strange demon-like creatures who were trying to devour the Earth.\" In his vision, he sees four knights protect him from certain death. He makes a note that the knights wore tunics similar to those in Der Eisendrache."
+    },
+    {
+      "date": "JUNE 4TH 1945 - NATCH DER UNTOTEN",
+      "event": "An Allied plane malfunctions over an airfield and crashes. German Army trucks, transporting the undead and Element 115 between Group 935 facilities is struck in struck in the crash. The marines surviving the crash hold out against the undead as long as they can."
+    },
+    {
+      "date": "JUNE 17TH 1945",
+      "event": "Peter McCain infiltrates Group 935 at Der Riese."
+    }
+  ],
+  "17": [
+    {
+      "date": "JUNE 29TH 1945",
+      "event": "Groph and and Schuster develop the Wave Gun."
+    },
+    {
+      "date": "JULY 15TH 1945",
+      "event": "Richtofen travels to the siberia Facility to do further research on \"live specimens.\" As her temporary guardian, he takes Samantha with him. Group 935 begins transferring three test subjects for experimentation: Nikolai, Pablo, and Takeo."
+    },
+    {
+      "date": "JULY 29TH 1945",
+      "event": "While Richtofen works at the Siberian Facility, Group 935 begins development of Deadshot Daiquiri."
+    },
+    {
+      "date": "AUGUST 1ST 1945",
+      "event": "The test subjects arrive at the Siberian facility for Richtofen’s experiments."
+    }
+  ],
+  "18": [
+    {
+      "date": "AUGUST 31ST 1945",
+      "event": "CIA Handler Cornelius Pernell confirms that Peter McCain has successfully infiltrated Group 935 and has been transferred to the Asylum Facility. Cornelius suspects Group 935 is losing control of their experiments and has sent in a Marine Recon unit to extract McCain. Tank Dempsey is the lead to the Squad."
+    },
+    {
+      "date": "SEPTEMBER 1ST 1945",
+      "event": "Peter is outed as a spy and captured by Group 935."
+    },
+    {
+      "date": "SEPTEMBER 2ND 1945",
+      "event": "Richtofen reports Pablo has died following a spleen removal. He also reveals he’s been performing experiments on Samantha. WW2 ends. Group 935 continues their research. Temporal Rifts begin to affect the asylum facility. An Orderly reports increasing problems with test subjects."
+    }
+  ],
+  "19": [
+    {
+      "date": "SEPTEMBER 2ND 1945",
+      "event": "Many in the facility have begun hearing voices coming from the walls, including the sobbing of a boy and a girl, screaming, and \"a man shouting for children to close the windows.\""
+    },
+    {
+      "date": "SEPTEMBER 3RD 1945",
+      "event": "An outbreak occurs at the Asylum facility. Peter McCain escapes."
+    },
+    {
+      "date": "SEPTEMBER 6TH 1945 - VERRUCKT",
+      "event": "Dempsey, John Banana, Smokey and a fourth marine arrive at the Asylum Facility to find it overrun by zombies. They fight off the horde as long as they can. Dempsey is apprehended by group 935."
+    },
+    {
+      "date": "SEPTEMBER 7TH 1945",
+      "event": "John Banana writes messages and records his last words while being eaten alive by an undead Smokey."
+    }
+  ],
+  "20": [
+    {
+      "date": "SEPTEMBER 10TH 1945",
+      "event": "Richtofen reports another spy has been captured and will be brought in to replace \"the Mexican.\" The subject is Dempsey."
+    }
+  ]
 }
