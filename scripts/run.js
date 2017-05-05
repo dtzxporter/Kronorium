@@ -1,8 +1,8 @@
 // The book data (Starts from first page (right hand side))
 var KronoriumSource = '';
+var CurrentLanguage = 'en';
 
-// TODO: Index with quick links to specific map's pages (Images will work awesome!)
-// TODO: The rest of the damn book
+// TODO: Images
 
 // Make sure pages don't overflow! Use images if necessary to fill gaps.
 
@@ -18,11 +18,11 @@ var FlipSound = null;
 $(document).ready(function()
 {
     // We must load the specific JSON source for our language (EN for now)
-    $.get(('data/en.json'), BeginLoad).fail(DisplayFail);
+    $.get(('data/' + CurrentLanguage + '/story.json'), BeginLoad).fail(DisplayFail);
 });
 
 function DisplayFail() {
-    // TODO: Display an error that we couldn't load the language defs
+    // TODO: Display an error that we couldn't load the defs
 
 }
 
@@ -39,14 +39,34 @@ function BeginLoad(data) {
     // Load sounds
     OpenSound = new Howl({
         src: ['sound/open.mp3', 'sound/open.wav', 'sound/open.ogg'],
-        onload: function() { SetupInitialAnim(); }
+        onload: function() { SetupInitialAnim(); },
+        volume: 0.5
     });
     CloseSound = new Howl({
-        src: ['sound/close.mp3', 'sound/close.wav', 'sound/close.ogg']
+        src: ['sound/close.mp3', 'sound/close.wav', 'sound/close.ogg'],
+        volume: 0.5
     });
     FlipSound = new Howl({
-        src: ['sound/flip.mp3', 'sound/flip.wav', 'sound/flip.ogg']
+        src: ['sound/flip.mp3', 'sound/flip.wav', 'sound/flip.ogg'],
+        volume: 0.5
     });
+}
+
+function JumpPage(page) {
+    // Go to it
+    $("#kronorium").turn('page', page);
+}
+
+function BeginLoadCreditsIndex() {
+    // Load inside of credit / index in async
+    $.get(('data/' + CurrentLanguage + '/credits.html'), function(data) {
+        // Inject data to credits
+        $('#credits-inject').append($(data));
+    }).fail(DisplayFail);
+    $.get(('data/' + CurrentLanguage + '/index.html'), function(data) {
+        // Inject data to index
+        $('#index-inject').append($(data));
+    }).fail(DisplayFail);
 }
 
 function SetupPage() {
@@ -54,6 +74,14 @@ function SetupPage() {
     $('#kronorium').append('<div class="hard" style="background-image:url(images/binding_front.png)"></div>');
     // Actual binding
     $('#kronorium').append('<div class="hard" style="background-image:url(images/binding_first.png)"></div>');
+    // Append placeholders
+    $('#kronorium').append($('#credits-inject'));
+    $('#kronorium').append($('#index-inject'));
+    // Unhide them
+    $('#credits-inject').removeClass('hide');
+    $('#index-inject').removeClass('hide');
+    // Credits / Index
+    BeginLoadCreditsIndex();
     // Current page type (right, then left) (0, 1)
     var PageType = 0;
     var PageCount = 0;
