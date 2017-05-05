@@ -6,3 +6,4 @@ The full Zombies storyline is transcribed within this interactive, online book. 
 Looking for the book itself? Check out the [Kronorium](https://dtzxporter.github.io/Kronorium/)
 - Navigate using your mouse on each edge, or the arrow keys to go forward and back
 - The second page has an index with timelines, maps, and character bios, click a link to jump to the page
+- For the best experience view on your PC, Laptop or Tablet
