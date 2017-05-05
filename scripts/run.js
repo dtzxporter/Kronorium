@@ -1,11 +1,14 @@
 // The book data (Starts from first page (right hand side))
 var KronoriumSource = '';
-var BaseUrl = 'https://dtzxporter.github.io/Kronorium/data/';
-
-// General rule of thumb: Format so we have a left and a right page before the end, so it looks natural.
 
 // TODO: Index with quick links to specific map's pages (Images will work awesome!)
 // TODO: The rest of the damn book
+
+// Make sure pages don't overflow! Use images if necessary to fill gaps.
+
+// TRIPLE CHECK THAT YOU DIDN'T MISS AN ENTRY!!
+
+// Recommended for data editing: http://www.jsoneditoronline.org/
 
 // Load sounds (Open / close / flip)
 var OpenSound = null;
@@ -25,7 +28,7 @@ function DisplayFail() {
 
 function BeginLoad(data) {
     // Set it
-    KronoriumSource = data;
+    KronoriumSource = JSON.parse(data);
     // Setup page
     SetupPage();
     // Load sounds
@@ -65,9 +68,19 @@ function SetupPage() {
         // Build events
         for (var i = 0; i < KronoriumSource[page].length; i++)
         {
-            BuiltSource += '<h3 class="date-head">' + KronoriumSource[page][i]['date'] + '</h3>';
-            BuiltSource += '<p class="event-text">' + KronoriumSource[page][i]['event'] + '</p>';
-            BuiltSource += '<div class="event-space"></div>';
+            // Check if it's an image
+            if (KronoriumSource[page][i].hasOwnProperty('img'))
+            {
+                // Embed an image here
+                BuiltSource += KronoriumSource[page][i]['img'];
+            }
+            else
+            {
+                // Normal source
+                BuiltSource += '<h3 class="date-head">' + KronoriumSource[page][i]['date'] + '</h3>';
+                BuiltSource += '<p class="event-text">' + KronoriumSource[page][i]['event'] + '</p>';
+                BuiltSource += '<div class="event-space"></div>';
+            }
         }
         PageCount++;
         // Add it

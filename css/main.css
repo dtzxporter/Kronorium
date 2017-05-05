@@ -13,6 +13,11 @@ body {
 
 .date-head {
     margin: 0;
+	text-transform: uppercase;
+}
+
+.center-img {
+	text-align: center;
 }
 
 .event-text {
