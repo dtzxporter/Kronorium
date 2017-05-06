@@ -148,19 +148,23 @@
       "event": "Group 935 establishes a research facility in Siberia near the Tunguska River."
     },
     {
+      "date": "NOVEMBER 6TH, 1940",
+      "event": "Group 935 establishes a research facility at Der Eisendrache."
+    },
+    {
       "date": "JUNE 24TH, 1941",
       "event": "Nikolai Belinski’s wife is killed during the German advance into the Soviet Union. In an effort to numb the pain, Nikolai increasingly turns to Vodka."
     },
     {
       "date": "JANUARY 11TH 1942",
       "event": "Maxis gives Fluffy to Samantha. The dog is expecting a litter."
-    },
-    {
-      "date": "JANUARY 20TH 1942",
-      "event": "Maxis tests the first file for storage on the data servant."
     }
   ],
   "9": [
+    {
+      "date": "JANUARY 20TH 1942",
+      "event": "Maxis tests the first file for storage on the data servant."
+    },
     {
       "date": "JANUARY 26TH 1942",
       "event": "On the data servant, Maxis catalogs locations with prominent Element 115 deposits. He includes information about its various applications and cities that the reanimation of dead cells is a possible side effect."
@@ -172,13 +176,13 @@
     {
       "date": "FEBRUARY 1ST 1942",
       "event": "With Griffin Station completed Richtofen names Doctor Groph lead scientist and returns to Earth to continue the charade with Maxis. Working alongside Schuster Groph is left to discover the power of the MPD."
-    },
-    {
-      "date": "FEBRUARY 2ND 1942",
-      "event": "In a speech to his staff, Groph talks optimistically about Griffin Station’s establishment as a permanent base of operations."
     }
   ],
   "10": [
+    {
+      "date": "FEBRUARY 2ND 1942",
+      "event": "In a speech to his staff, Groph talks optimistically about Griffin Station’s establishment as a permanent base of operations."
+    },
     {
       "date": "APRIL 17TH 1942",
       "event": "Maxis develops the Ray Gun prototype at the Rising Sun Facility. H. Porter works on developing the 2nd Generation Model."
@@ -1061,18 +1065,14 @@
     },
     {
       "date": "APRIL 21ST, 1944",
-      "event": "Jessica misses a call from her producer. He says he didn’t have a good feeling about the director and it didn’t work out. However he scored her a lead in a musical he and his partner are financing."
-    },
-    {
-      "date": "APRIL 21ST, 1944",
       "event": "Jessica kills the photographer and secures the incriminating photographs. Jack Kills the snitch who could turn him over to International Affairs. Floyd kills Tony the King in the boxing match and cash on his winnings. Nero Kills his wife in a \"work accident\", cashing in her life insurance policy to square away the debts."
-    }
-  ],
-  "67": [
+    },
     {
       "date": "APRIL 21ST, 1944",
       "event": "Richtofen arrives in Morg City to secure the Summoning Key."
-    },
+    }
+  ],
+  "67": [
     {
       "date": "APRIL 22ND, 1944",
       "event": "Richtofen learns The Reporter has the Summoning Key and confronts him. The Reporter waves Monty’s letter at Richtofen and orders him to stay away before attacking him. Richtofen kills the Reporter in self-defense."
