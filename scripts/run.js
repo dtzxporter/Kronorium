@@ -133,12 +133,21 @@ function SetupPage() {
                 // Embed an image here
                 BuiltSource += KronoriumSource[page][i]['img'];
             }
-            else
+            if (KronoriumSource[page][i].hasOwnProperty('date'))
             {
-                // Normal source
+                // Insert date head
                 BuiltSource += '<h3 class="date-head">' + KronoriumSource[page][i]['date'] + '</h3>';
+            }
+            if (KronoriumSource[page][i].hasOwnProperty('event'))
+            {
+                // Insert event text
                 BuiltSource += '<p class="event-text">' + KronoriumSource[page][i]['event'] + '</p>';
-                BuiltSource += '<div class="event-space"></div>';
+                // Check whether or not to skip spacer
+                if (!KronoriumSource[page][i].hasOwnProperty('skipspace') && KronoriumSource[page][i]['skipspace'] != "true")
+                {
+                    // Insert it
+                    BuiltSource += '<div class="event-space"></div>';
+                }
             }
         }
         PageCount++;
