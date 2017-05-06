@@ -19,7 +19,7 @@
   ],
   "1": [
     {
-      "date": "DECEMBER 31ST, 1299",
+      "date": "DECEMBER 32ST, 1299",
       "event": "Together with the Keepers, Primis defeats the Apothicons, bringing the Great War to an end."
     },
     {
@@ -436,6 +436,24 @@
   ],
   "26": [
     {
+      "date": "OCTOBER 21ST 1945 - SHI NO NUMA",
+      "event": "Ultimis travels to the Rising Sun Facility to recover Richtofen's diary. Upon reading it, Richtofen begins to form his plan to defeat Samantha."
+    },
+    {
+      "date": "OCTOBER 28TH 1945 - DER REISE",
+      "event": "Ultimis returns to Der Reise. With his diary, Richtofen plans to use the teleporter to return to the moon and confront Samantha. Unfortunately the Wunderwaffe DG-2 overloads the teleporter and sends them through time - causing Richtofen to drop his diary."
+    },
+    {
+      "date": "NOVEMBER 5TH 1945",
+      "event": "Group 935 is disbanded."
+    },
+    {
+      "date": "JANUARY 19TH 1946",
+      "event": "The United States and the Soviet Union share the resources recovered from Group 935's various research stations. Richtofen's diary is among the items recovered by the Soviet Union."
+    }
+  ],
+  "27": [
+    {
       "date": "JANUARY 27TH 1946",
       "event": "The Pentagon hires many former Group 935 scientists in an effort to replicate their work."
     },
@@ -456,7 +474,7 @@
       "event": "Gersh and Yuri Zavoyski begin working for the Ascension Group."
     }
   ],
-  "27": [
+  "28": [
     {
       "date": "APRIL 25TH 1956",
       "event": "Explorers Brock and Gary discover Shangri-La. During an eclipse, they're unwittingly trapped in a time loop. Sally, sent back in time from 2011, is trapped in the same loop. Ultimis arrives in Shangri-La. With the help of Brock and Gary, they acquire the Focusing Stone."
@@ -472,13 +490,13 @@
     {
       "date": "NOVEMBER 11TH 1962",
       "event": "Gersh begins work on Project Thunder."
-    }
-  ],
-  "28": [
+    },
     {
       "date": "DECEMBER 12TH 1962",
       "event": "Gersh and Yuri begin work on the Gersh Device, codenamed Project Mercury."
-    },
+    }
+  ],
+  "29": [
     {
       "date": "JUNE 15TH 1963",
       "event": "The Pentagon begins development on their own version of the Wunderwaffe DG-2."
@@ -486,9 +504,7 @@
     {
       "date": "AUGUST 17TH 1963",
       "event": "The Pentagon begins development on their own version of the Winter's Howl."
-    }
-  ],
-  "29": [
+    },
     {
       "date": "OCTOBER 28TH 1963 - KINO DER TOTEN",
       "event": "From Der Reise, Ultimis teleports to Kino. This marks the first time Ultimis travels across space and time. Temporal Rifts occur across dimensions. In light of these developments, Monty feels obligated to step in, and begins to make changes in the background across time. He helps Group 935 invent Perk machines. He adds chalk drawings to walls. Little nudges. Ultimis locates a Lunar Lander and fly to the Ascension Facility."
@@ -496,13 +512,13 @@
     {
       "date": "OCTOBER 29TH 1963",
       "event": "Gersh informs the senior staff that Yuri has been removed from Project Mercury and has been transferred to Rocket Research."
-    },
-    {
-      "date": "OCTOBER 29TH 1963",
-      "event": "Yuri begins to notice the appearance of children's toys around the facility."
     }
   ],
   "30": [
+    {
+      "date": "OCTOBER 29TH 1963",
+      "event": "Yuri begins to notice the appearance of children's toys around the facility."
+    },
     {
       "date": "NOVEMBER 1ST 1963",
       "event": "Upon reading Richtofen's diary, Yuri begins to hear Samantha's voice. Over several days, her voice will consume him, driving him to resume work on the Gersh Device. He obeys."
@@ -510,23 +526,26 @@
     {
       "date": "NOVEMBER 4TH 1963",
       "event": "Gersh announces to the Committee that Project Thunder is nearing completion. gersh reveals Yuri may need to be removed from Ascension entirely, having observed his being \"hostile towards other scientists... and frequently observed muttering to himself.\""
-    },
-    {
-      "date": "NOVEMBER 5TH 1963",
-      "event": "Obeying Samantha's wishes, Yuri tricks Gersh into activating the Gersh Device. The rift created absorbs him and allows Samantha to travel through. Yuri is also absorbed and transported to the Pentagon."
     }
   ],
   "31": [
+    {
+      "date": "NOVEMBER 5TH 1963",
+      "event": "Obeying Samantha's wishes, Yuri tricks Gersh into activating the Gersh Device. The rift created absorbs him and allows Samantha to travel through. Yuri is also absorbed and transported to the Pentagon."
+    },
     {
       "date": "NOVEMBER 6TH 1963 - ASCENSION",
       "event": "Ultimis arrives at the Soviet Cosmodrome and free Gersh from the Casimir Mechanism. Richtofen recovers his diary, and learns that they need the Vril Device from the Siberian Facility for his plan. Maintaining his ethereal form, Gersh sends them into a rift to their next destination before beginning his travels across space and time."
     },
     {
       "date": "NOVEMBER 6TH 1963 - FIVE",
-      "event": "In the Pentagon, John F. Kennedy, Richard Nixon, and Robert McNamara meet with Fidel Castro in the aftermath of the Cuban Missile Crisis. Due to the events at the cosmodrome, a zombie outbreak occurs. Samantha sends Yuri to the Pentagon to thwart their survival. After Gersh is freed and Ultimis departs from the Cosmodrome, the outbreak ends at the Pentagon. All four survive."
+      "event": "In the Pentagon, John F. Kennedy, Richard Nixon, and Robert McNamara meet with Fidel Castro in the aftermath of the Cuban Missile Crisis. Due to the events at the cosmodrome, a zombie outbreak occurs. Samantha sends Yuri to the Pentagon to thwart their survival. -"
     }
   ],
   "32": [
+    {
+      "event": "After Gersh is freed and Ultimis departs from the Cosmodrome, the outbreak ends at the Pentagon. All four survive."
+    },
     {
       "date": "NOVEMBER 19TH 1963",
       "event": "In an effort to avoid another undead outbreak, the US Government creates the Broken Arrow program, establishing several facilities across the country. The Groom Lake Program is folded into Broken Arrow."
