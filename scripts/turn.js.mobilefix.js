@@ -11,20 +11,19 @@
 
 (function () {
     jQuery.fn.offset_FIXED = function () {
-
-        //Get jQuery offset value
+        // Get jQuery offset value
         var offset = $(this).offset();
 
-        //Get actual document width, without scrollbar
+        // Get actual document width, without scrollbar
         var prevStyle = document.body.style.overflow || "";
         document.body.style.overflow = "hidden";
         var docWidth = document.documentElement.clientWidth;
         document.body.style.overflow = prevStyle;
         
-        //Check if viewport is scaled (if not, we don't need to adjust offset)
+        // Check if viewport is scaled (if not, we don't need to adjust offset)
         if (docWidth / window.innerWidth !== 1) { 
             
-            //Viewport is scaled; manually calculate correct offset
+            // Viewport is scaled; manually calculate correct offset
             var docRect = document.documentElement.getBoundingClientRect();
             offset = {
                 top: offset.top - window.pageYOffset - docRect.top,
