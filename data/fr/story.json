@@ -100,7 +100,7 @@
     },
     {
       "date": "5 Décembre 1939",
-      "event": "\"Edward's Walnut Delivery\" ne parvient pas à impressionner Maxis, qui déclare une perte de temps. Il révèle à Richtofen que le groupe 935 sera prochainement financé par l'Allemagne. Les inquiétudes de Richtofen entraînent des défections massives: lui et Schuster décident de poursuivre leurs expériences de téléportation derrière le dos de Maxis"
+      "event": "\"Edward's Resultats sur le noyer\" ne parvient pas à impressionner Maxis, qui déclare une perte de temps. Il révèle à Richtofen que le groupe 935 sera prochainement financé par l'Allemagne. Les inquiétudes de Richtofen entraînent des défections massives: lui et Schuster décident de poursuivre leurs expériences de téléportation derrière le dos de Maxis"
     },
     {
       "img": "<div class='center-img'><img style='width: 205px;height: 152px;' src='images/content/walnut.png'></div>"
@@ -158,17 +158,16 @@
     {
       "date": "11 Janvier 1942",
       "event": "Maxis donne Fluffy à Samantha. Le chien attend une portée."
-    },
-    {
-      "date": "20 Janvier 1942",
-      "event": "Maxis teste le premier fichier pour le stockage sur le serveur de données."
     }
   ],
   "9": [
     {
+      "date": "20 Janvier 1942",
+      "event": "Maxis teste le premier fichier pour le stockage sur le serveur de données."
+    },
+    {
       "date": "26 Janvier 1942",
-      "event": "
-Sur le serveur de données, Maxis catalogues les sites de dépôts importants de l'élément 115. Il comprend des informations sur ses diverses applications et villes selon lesquelles la réanimation des cellules mortes est un effet secondaire possible."
+      "event": "Sur le serveur de données, Maxis catalogues les sites de dépôts importants de l'élément 115. Il comprend des informations sur ses diverses applications et villes selon lesquelles la réanimation des cellules mortes est un effet secondaire possible."
     },
     {
       "date": "30 Janvier 1942",
@@ -177,13 +176,13 @@ Sur le serveur de données, Maxis catalogues les sites de dépôts importants de
     {
       "date": "1er Février 1942",
       "event": "Avec la finalasation de la Station Griffin, Richtofen nomme le scientifique principal Docteur Groph et retourne sur Terre pour continuer la charade avec Maxis. Travaillant aux côtés de Schuster, Groph est laissé pour découvrir le pouvoir du MPD."
-    },
-    {
-      "date": "2 Février 1942",
-      "event": "Dans un discours à son équipe, Groph parle avec optimisme de l'établissement de la Station Griffin comme base permanente d'opérations."
     }
   ],
   "10": [
+    {
+      "date": "2 Février 1942",
+      "event": "Dans un discours à son équipe, Groph parle avec optimisme de l'établissement de la Station Griffin comme base permanente d'opérations."
+    },
     {
       "date": "17 Avril 1942",
       "event": "Maxis développe le prototype Ray Gun à l'installation Rising Sun. H. Porter travaille sur le développement du modèle de 2ème génération."
@@ -437,6 +436,24 @@ Sur le serveur de données, Maxis catalogues les sites de dépôts importants de
   ],
   "26": [
     {
+      "date": "21 Octobre 1945 - SHI NO NUMA",
+      "event": "Ultimis se rend à l'installation de Rising Sun pour récupérer le journal de Richtofen. En le lisant, Richtofen commence à former son plan pour vaincre Samantha."
+    },
+    {
+      "date": "28 Octobre 1945 - DER REISE",
+      "event": "Ultimis revient à Der Reise. Avec son journal, Richtofen prévoit d'utiliser le téléporteur pour retourner sur la lune et affronter Samantha. Malheureusement, le Wunderwaffe DG-2 surcharge le téléporteur et les envoie dans le temps, ce qui fait que Richtofen perd son journal."
+    },
+    {
+      "date": "5 Novembre 1945",
+      "event": "Le groupe 935 est dissous."
+    },
+    {
+      "date": "9 Janvier 1946",
+      "event": "Les États-Unis et l'Union soviétique partagent les ressources récupérées par les différentes stations de recherche du Groupe 935. Le journal de Richtofen fait partie des objets récupérés par l'Union soviétique."
+    }
+  ],
+  "27": [
+    {
       "date": "27 Janvier 1946",
       "event": "Le Pentagone recrute de nombreux anciens scientifiques du Groupe 935 dans le but de reproduire leur travail."
     },
@@ -457,7 +474,7 @@ Sur le serveur de données, Maxis catalogues les sites de dépôts importants de
       "event": "Gersh et Yuri Zavoyski commencent à travailler pour le groupe Ascension."
     }
   ],
-  "27": [
+  "28": [
     {
       "date": "25 Avril 1956",
       "event": "Les explorateurs Brock et Gary découvrent Shangri-La. Pendant une éclipse, ils sont involontairement piégés dans une boucle temporelle. Sally, renvoyée dans le temps depuis 2011, est piégé dans la même boucle. Ultimis arrive à Shangri-La. Avec l'aide de Brock et Gary, ils acquièrent la Pierre Angulaire."
@@ -473,13 +490,13 @@ Sur le serveur de données, Maxis catalogues les sites de dépôts importants de
     {
       "date": "11 Novembre 1962",
       "event": "Gersh commence ses travaux sur Project Thunder."
-    }
-  ],
-  "28": [
+    },
     {
       "date": "12 Décembre 1962",
       "event": "Gersh et Yuri commencent à travailler sur l'appareil Gersh, codé le projet Mercury."
-    },
+    }
+  ],
+  "29": [
     {
       "date": "15 Juin 1963",
       "event": "Le Pentagone commence son développement sur sa propre version de la Wunderwaffe DG-2."
@@ -487,9 +504,7 @@ Sur le serveur de données, Maxis catalogues les sites de dépôts importants de
     {
       "date": "17 Aout 1963",
       "event": "Le Pentagone commence son développement sur sa propre version du \"Winter's Howl\"."
-    }
-  ],
-  "29": [
+    },
     {
       "date": "28 Octobre 1963 - KINO DER TOTEN",
       "event": "Depuis Der Reise, Ultimis se téléporte vers Kino. Ceci marque la première fois que Ultimis parcourt l'espace et le temps. Des fissures temporels se produisent à travers les dimensions. Suite a ces développements, Monty se sent obligé de intervenir, et commence à apporter des changements en arrière-plan au fil du temps. Il aide le Groupe 935 à inventer des machines Perk. Il ajoute des dessins à la craie aux murs. Petits coups de pouce. Ultimis localise un Module lunaire et se dirige vers l'installation d'Ascension."
@@ -497,13 +512,13 @@ Sur le serveur de données, Maxis catalogues les sites de dépôts importants de
     {
       "date": "29 Octobre 1963",
       "event": "Gersh informe les cadres supérieurs que Yuri a été retiré du projet Mercury et a été transféré à la recherche en roquettes."
-    },
-    {
-      "date": "29 Octobre 1963",
-      "event": "Yuri commence à remarquer l'apparition de jouets pour enfants autour de l'installation."
     }
   ],
   "30": [
+    {
+      "date": "29 Octobre 1963",
+      "event": "Yuri commence à remarquer l'apparition de jouets pour enfants autour de l'installation."
+    },
     {
       "date": "1er Novembre 1963",
       "event": "En lisant le journal de Richtofen, Yuri commence à entendre la voix de Samantha. Pendant plusieurs jours, sa voix le consumera, le conduisant à reprendre son travail sur l'appareil Gersh. Il obéit."
@@ -511,13 +526,13 @@ Sur le serveur de données, Maxis catalogues les sites de dépôts importants de
     {
       "date": "4 Novembre 1963",
       "event": "Gersh annonce au comité que le Projet Thunder est en voie d'etre completé. Gersh révèle que Yuri va devoir être retiré entièrement d'Ascension, après avoir observé son être hostile envers d'autres scientifiques ... et fréquemment observé a ce murmuré à lui-même.\""
-    },
-    {
-      "date": "5 Novembre 1963",
-      "event": "En acceptant les souhaits de Samantha, Yuri piège Gersh a activer l'appareil Gersh. La faille créée l'absorbe et permet à Samantha de traverser. Yuri est également absorbé et transporté au Pentagone."
     }
   ],
   "31": [
+    {
+      "date": "5 Novembre 1963",
+      "event": "En acceptant les souhaits de Samantha, Yuri piège Gersh a activer l'appareil Gersh. La faille créée l'absorbe et permet à Samantha de traverser. Yuri est également absorbé et transporté au Pentagone."
+    },
     {
       "date": "6 Novembre 1963 - ASCENSION",
       "event": "Ultimis arrive au Cosmodrome soviétique et libère Gersh du mécanisme de Casimir. Richtofen récupère son journal et apprend qu'ils ont besoin de la machine Vril a la facilité de Sibérie pour son plan. Maintenant sa forme éthérée, Gersh les envoie dans une fissure vers leur prochaine destination avant de commencer ses voyages à travers l'espace et le temps."
@@ -528,6 +543,9 @@ Sur le serveur de données, Maxis catalogues les sites de dépôts importants de
     }
   ],
   "32": [
+    {
+      "event": "Après que Gersh soit libéré et que Ultimis quitte le Cosmodrome, l'épidémie se termine au Pentagone. Tous les quatre survivent."
+    },
     {
       "date": "19 Novembre 1963",
       "event": "Dans le but d'éviter une nouvelle épidémie de morts-vivants, le gouvernement des États-Unis crée le programme Broken Arrow, établissant plusieurs installations à travers le pays. Le programme Lac Groom est inseré dans celui de Broken Arrow."
