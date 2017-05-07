@@ -87,10 +87,6 @@
     {
       "date": "2 Novembre 1939",
       "event": "Maxis se tourne vers le Reichstag pour un financement supplémentaire. L'Allemagne accepte la demande, exprimant son intérêt pour la recherche sur les armes, la technologie de téléportation et les sujets non-disparus réanimés."
-    },
-    {
-      "date": "4 Décembre 1939",
-      "event": "Pendant le Test Trial 151, Richtofen et le docteur Schuster se téléportent avec succès un noyer. C'est le premier test réussi où la composition chimique de l'objet est maintenue tout au long du processus."
     }
   ],
   "5": [
@@ -772,8 +768,7 @@
     },
     {
       "date": "11 Mai 1917",
-      "event": "
-Incapables d'accéder à la chambre principale, les soldats écoutent un gramophone pour alléger leur frustration en écoutant un enregistrement de \"La Source Noire\", l'entrée de la chambre principale s'ouvre de manière inattendue. L'exposition du camp à l'élément 115 commence."
+      "event": "Incapables d'accéder à la chambre principale, les soldats écoutent un gramophone pour alléger leur frustration en écoutant un enregistrement de \"La Source Noire\", l'entrée de la chambre principale s'ouvre de manière inattendue. L'exposition du camp à l'élément 115 commence."
     },
     {
       "date": "21 Mai 1917",
@@ -974,18 +969,18 @@ Incapables d'accéder à la chambre principale, les soldats écoutent un gramoph
       "event": "Finn, Sal et Billy attirent Al sur le toit et le tue."
     },
     {
-      "date": "MOB OF THE DEAD",
-      "event": "Sal, Finn, Billy et Al combattent des vagues de morts-vivants alors qu'ils se retrouvent piégés dans un cycle apparemment sans fin."
-    },
-    {
       "date": "11 Janvier 1934",
       "event": "En traversant une fissure temporelle, Richtofen sécurise les échantillons de sang de Sal et de Finn."
+    },
+    {
+      "date": "19 Janvier 1934",
+      "event": "Trouvé coupable du meurtre d'Al, Sal, Finn et Billy sont exécutés par chaise électrique."
     }
   ],
   "60": [
     {
-      "date": "19 Janvier 1934",
-      "event": "Trouvé coupable du meurtre d'Al, Sal, Finn et Billy sont exécutés par chaise électrique."
+      "date": "MOB OF THE DEAD",
+      "event": "Sal, Finn, Billy et Al combattent des vagues de morts-vivants alors qu'ils se retrouvent piégés dans un cycle apparemment sans fin."
     },
     {
       "date": "16 Avril 1940",
@@ -1105,6 +1100,10 @@ Incapables d'accéder à la chambre principale, les soldats écoutent un gramoph
     {
       "date": "25 Avril 1944 - SHADOWS OF EVIL",
       "event": "Nero, Jack, Floyd et Jessica sont frappés inconscient au Club Burlesque du Lac Noir. Ils se réveillent dans une version tordue de Morg City, légèrement décalée par rapport à la réalité. Le Shadowman leur dit qu'ils peuvent expier leurs péchés, les quatres sont forcés de realiser des rituels d'exécution. Jessica sacrifie son producteur, Jake sacrifie son partenaire, Floyd sacrifie son promoteur et Nero sacrifie son avocat. En complétant les rituels requis, les Apothicons ont accès à la Dimension 63. En réalisant qu'ils ont été dupés, les quatres travaillent avec les Veilleurs pour vaincre Le Shadowman. Ils le piégent dans la Clef d'Invocation, mais avant qu'ils puissent la remettre aux Veilleurs, Primis Richtofen arrive et vole la Clef d'Invocation. Richtofen se rend à la Dimension 2210 pour sécuriser une âme innocente de Richtofen . Il délivre l'âme à la Maison. Depuis l'interieur de la Clef d'invocation, le Shadowman déclare: \"Nous allons nous revoir ...\""
+    },
+    {
+      "date": "26 Avril 1944",
+      "event": "Les Apothicons detruisent la Dimension 63."
     }
   ],
   "69": [
@@ -1231,119 +1230,19 @@ Incapables d'accéder à la chambre principale, les soldats écoutent un gramoph
       "event": ""
     },
     {
-      "date": "Fissure Proditione",
+      "date": "FISSURE DECEPTIO",
       "event": ""
-    },
-    {
-      "date": "12 Avril 1942",
-      "event": "Surpassé par les morts-vivants, l'installation du Rising Sun est perdue."
-    },
-    {
-      "date": "8 Juillet 1942",
-      "event": "La division 9 commence la construction de la facilité de l'île."
-    },
-    {
-      "date": "5 Novembre 1942",
-      "event": "Takeo est expédié par l'empereur pour superviser le travail de la Division 9 à la facilité de l'île."
-    }
-  ],
-  "77": [
-    {
-      "date": "Fissure Agonia",
-      "event": ""
-    },
-    {
-      "date": "11 Novembre 1942",
-      "event": "Groph confirme que la division 9 a complété la résurrection des monstres anciens pour la bataille sur le front de l'est. Les rapports suggèrent que les spécimens sont encore extrêmement dangereux, mais que les Allemands bloqué sur le front oriental avec les Russes viendront bientôt a la fin grâce à leur implication.\""
-    },
-    {
-      "date": "2 Février 1943",
-      "event": "La bataille de Stalingrad ne se termine pas. Grâce aux avancées technologiques des deux côtés, la deuxième guerre mondiale continue indéfiniment."
-    },
-    {
-      "date": "6 Février 1943",
-      "event": "La division 9 élargit les expérimentations pour inclure l'utilisation des prisonniers de guerre, du personnel de la Division 9, des arachnides et des monstres mystiques."
-    }
-  ],
-  "78": [
-    {
-      "date": "13 Février 1943",
-      "event": "Travaillant avec Maxis a la facilité de Kino. Sophia révèle qu'elle a été attaquée par le sujet deux-six."
-    },
-    {
-      "date": "14 Février 1943",
-      "event": "Après avoir appris que Sophia a été attaquée par le sujet deux à six, Maxis la tue et transfère son cerveau dans une machine, l'analyse stratégique prévoyant des opérations d'analyse heuristique."
-    },
-    {
-      "date": "15 Juin 1943",
-      "event": "Takeo rapporte à l'empereur que le travail effectué à la facilité de l'île est inacceptable."
-    },
-    {
-      "date": "7 Juillet 1943",
-      "event": "Sophia est transférée à Stalingrad pour superviser les opérations du groupe 935."
-    },
-    {
-      "date": "16 Novembre 1943",
-      "event": "Sophia Confirme l'existence du projet Rasputin, le soldat Mangler russe."
-    }
-  ],
-  "79": [
-    {
-      "date": "11 Janvier 1944",
-      "event": "Sophia confirme que le robot géant russe a ralenti l'avance allemande."
-    },
-    {
-      "date": "3 Janvier 1945",
-      "event": "Les Russes utilisent les recherches volées du groupe 935 pour créer le Géant Russe, le Mangler Russe et le Ray-Gun Mark 3."
-    },
-    {
-      "date": "4 Avril 1945",
-      "event": "Sophia déclare que la bataille de Stalingrad est proche de la victoire pour les forces allemandes et que les Drones Valkyrie ont été déployés pour localiser les souches de résistance et tenter de les capturer. Après la libération des grandes concentrations de l'élément 115 par les forces allemandes, la ville devient largement peuplée par les morts-vivants. Nikolai et ses camarades continuent à se battre pour ce qui reste de Stalingrad."
-    }
-  ],
-  "80": [
-    {
-      "date": "24 Juillet 1945",
-      "event": "Sur les ordres de l'empereur, Takeo est fait prisonnier par la Division 9. Il est utilisé comme sujet d'essai pour ses expériences sur les plantes organiques."
-    },
-    {
-      "date": "2 Septembre 1945",
-      "event": "La Seconde Guerre mondiale continue de faire ses ravages, Stalingrad s'est transformé en un conflit à trois voies entre Dragon, Machinea et Morts-vivants. Sans survivants humains en vie, Sophia est maintenant piégée dans la ville."
-    },
-    {
-      "date": "2 Septembre 1945",
-      "event": "Harvey Yena rapporte que les Dragons se sont révélés bénéfiques pour l'effort de guerre à Stalingrad. Il confirme que la recherche de Die Glocke continue d'explorer le déplacement et le déplacement du temps à travers les dimensions."
-    }
-  ],
-  "81": [
-    {
-      "date": "13 Septembre 1945",
-      "event": "Cornelis tente d'envoyer une transmission à Peter Mccain. En lui disant de se rendre à l'installation abandonnée du Rising Sun."
     },
     {
       "date": "13 Octobre 1945 - THE GIANT",
       "event": "Lorsqu'une épidémie de zombies survient, Primis Dempsey, Takeo et Nikolai font face à Ultimis Richtofen quelques instants après qu'il téléporte Maxis et Samantha. Comme ils tentent de raisonner avec lui pour réveiller leurs homologues. Primis Richtofen arrive à travers le téléporteur et tue son Ultimis homologue, déclenchant des fissures à travers l'espace et le temps. Alors que Primis combat les morts-vivants, le groupe 935 sécurise le sujet de test Dempsey et le transmet au Chateau Der Eisendrache. Primis les poursuit dans un géant allemand."
-    },
-    {
-      "date": "9 Octobre 1945",
-      "event": "Avec la construction terminée, Division 9 Poursuivre leurs projets dans la facilité de l'île."
     }
   ],
-  "82": [
-    {
-      "date": "18 Octobre 1945 - ZETSUBOU NO SHIMA",
-      "event": "Primis prend l'âme de Takeos après qu'ils l'aident à commettre Seppuku. Richtofen prend l'équipe à la dimension 63 pour collecter son sang. Pour la police d'assurance, ils reviennent dans l'île avant de se rendre à leur prochaine destination."
-    },
-    {
-      "date": "18 Octobre 1945",
-      "event": "Peter Mccain fait son saut à Shi No Numa alors qu'une fissure temporelle s'ouvre sous lui à la suite de fissures de l'Univers Primis, la faille le téléporte vers Gorod Krovi."
-    },
+  "77": [
     {
       "date": "29 Octobre 1945",
       "event": "Le docteur Groph prend le contrôle du groupe 935 dans l'absence de Richtofen sans se rendre compte de son sort aux mains de Primis."
-    }
-  ],
-  "83": [
+    },
     {
       "date": "31 Octobre 1945",
       "event": "Dans le sillage des rêves hantés et des rumeurs selon lesquelles Samantha pourrait roder sur la station de Griffith, Groph s'inquiète de ce que le MPD pourrait corrompre les installations."
@@ -1353,43 +1252,141 @@ Incapables d'accéder à la chambre principale, les soldats écoutent un gramoph
       "event": "Récupérant le sujet de test Dempsey d'une fusée destiné à la lune, Richtofen securise son âme et révèle à primus son intention de régler les choses. Primis détruit la Station Griffin et la Lune."
     },
     {
+      "date": "FISSURE PRODITONE",
+      "event": ""
+    },
+    {
+      "date": "12 Avril 1942",
+      "event": "Surpassé par les morts-vivants, l'installation du Rising Sun est perdue."
+    }
+  ],
+  "78": [
+    {
+      "date": "8 Juillet 1942",
+      "event": "La division 9 commence la construction de la facilité de l'île."
+    },
+    {
+      "date": "9 Octobre 1945",
+      "event": "Avec la construction terminée, Division 9 Poursuivre leurs projets dans la facilité de l'île."
+    },
+    {
+      "date": "5 Novembre 1942",
+      "event": "Takeo est expédié par l'empereur pour superviser le travail de la Division 9 à la facilité de l'île."
+    },
+    {
+      "date": "6 Février 1943",
+      "event": "La division 9 élargit les expérimentations pour inclure l'utilisation des prisonniers de guerre, du personnel de la Division 9, des arachnides et des monstres mystiques."
+    },
+    {
+      "date": "15 Juin 1943",
+      "event": "Takeo rapporte à l'empereur que le travail effectué à la facilité de l'île est inacceptable."
+    }
+  ],
+  "79": [
+    {
+      "date": "24 Juillet 1945",
+      "event": "Sur les ordres de l'empereur, Takeo est fait prisonnier par la Division 9. Il est utilisé comme sujet d'essai pour ses expériences sur les plantes organiques."
+    },
+    {
+      "date": "13 Septembre 1945",
+      "event": "Cornelis tente d'envoyer une transmission à Peter Mccain. En lui disant de se rendre à l'installation abandonnée du Rising Sun."
+    }
+    {
+      "date": "18 Octobre 1945 - ZETSUBOU NO SHIMA",
+      "event": "Primis prend l'âme de Takeos après qu'ils l'aident à commettre Seppuku. Richtofen prend l'équipe à la dimension 63 pour collecter son sang. Pour la police d'assurance, ils reviennent dans l'île avant de se rendre à leur prochaine destination."
+    },
+    {
+      "date": "18 Octobre 1945",
+      "event": "Peter Mccain fait son saut à Shi No Numa alors qu'une fissure temporelle s'ouvre sous lui à la suite de fissures de l'Univers Primis, la faille le téléporte vers Gorod Krovi."
+    }
+  ],
+  "80": [
+    {
+      "date": "FISSURE AGONIA",
+      "event": ""
+    },
+    {
+      "date": "11 Novembre 1942",
+      "event": "Groph confirme que la division 9 a complété la résurrection des monstres anciens pour la bataille sur le front de l'est. Les rapports suggèrent que les spécimens sont encore extrêmement dangereux, mais que les Allemands bloqué sur le front oriental avec les Russes viendront bientôt a la fin grâce à leur implication.\""
+    },
+    {
+      "date": "3 Janvier 1945",
+      "event": "Les Russes utilisent les recherches volées du groupe 935 pour créer le Géant Russe, le Mangler Russe et le Ray-Gun Mark 3."
+    },
+    {
+      "date": "2 Février 1943",
+      "event": "La bataille de Stalingrad ne se termine pas. Grâce aux avancées technologiques des deux côtés, la deuxième guerre mondiale continue indéfiniment."
+    }
+  ],
+  "81": [
+    {
+      "date": "13 Février 1943",
+      "event": "Travaillant avec Maxis a la facilité de Kino. Sophia révèle qu'elle a été attaquée par le sujet deux-six."
+    },
+    {
+      "date": "14 Février 1943",
+      "event": "Après avoir appris que Sophia a été attaquée par le sujet deux à six, Maxis la tue et transfère son cerveau dans une machine, l'analyse stratégique prévoyant des opérations d'analyse heuristique."
+    },
+    {
+      "date": "7 Juillet 1943",
+      "event": "Sophia est transférée à Stalingrad pour superviser les opérations du groupe 935."
+    },
+    {
+      "date": "2 Septembre 1945",
+      "event": "Harvey Yena rapporte que les Dragons se sont révélés bénéfiques pour l'effort de guerre à Stalingrad. Il confirme que la recherche de Die Glocke continue d'explorer le déplacement et le déplacement du temps à travers les dimensions."
+    },
+    {
+      "date": "6 Novembre 1943",
+      "event": "Sophia Confirme l'existence du projet Rasputin, le soldat Mangler russe."
+    }
+  ],
+  "82": [
+    {
+      "date": "11 Janvier 1944",
+      "event": "Sophia confirme que le robot géant russe a ralenti l'avance allemande."
+    },
+    {
+      "date": "14 Avril 1945",
+      "event": "Sophia déclare que la bataille de Stalingrad est proche de la victoire pour les forces allemandes et que les Drones Valkyrie ont été déployés pour localiser les souches de résistance et tenter de les capturer. Après la libération des grandes concentrations de l'élément 115 par les forces allemandes, la ville devient largement peuplée par les morts-vivants. Nikolai et ses camarades continuent à se battre pour ce qui reste de Stalingrad."
+    },
+    {
+      "date": "2 Septembre 1945",
+      "event": "La Seconde Guerre mondiale continue de faire ses ravages, Stalingrad s'est transformé en un conflit à trois voies entre Dragon, Machinea et Morts-vivants. Sans survivants humains en vie, Sophia est maintenant piégée dans la ville."
+    }
+  ],
+  "83": [
+    {
       "date": "6 Novembre 1945",
-      "event": "Dérivant a travers l'espace et le temps sous sa forme surréaliste, Gersch arrive dans la fissure."
+      "event": "Dérivant de l'espace et du temps sous sa forme éthérée, Gersh arrive dans la fracture."
     },
     {
       "date": "6 Novembre 1945 - GOROD KROVI",
       "event": "Primis arrive et libère Sophia et acquiert l'âme de Nikolaï. Richtofen téléporte l'âme. Richtofen téléporte les âmes de Dempsey, Takeo et Nikolai à Maxis à la maison. Monty annonce son existence à Primis pour la première fois."
-    }
-  ],
-  "84": [
-    {
-      "date": "25 Avril 1953",
-      "event": "En voyageant à Shangri La, Brock et Gary's s'écrase dans les montagnes à la suite d'un événement atmosphérique rare. Un autre effet secondaire des fissures temporelles créées par Primis en voyageant à Gorod Krovi."
     },
     {
       "date": "6 Novembre 1963",
       "event": "Se cachant dans un placard au Pentagone, Mcnamara enregistre un message confirmant que John F. Kennedy, Richard Nixon et Fidel Castro sont morts à la suite d'une épidémie de zombies. Il meurt quelques instants plus tard."
     }
   ],
-  "85": [
+  "84": [
     {
       "date": "TANK DEMPSEY - ULTIMIS",
       "event": "Un héros américain. Donnez-lui une belle femme, une arme chargée et une cible, et il sera heureux. Contrariez-le et il vous arrachera les boyaux pour s'en faire un collier. Dempsey a été choisi pour cette mission après avoir prouvé qu'il avait du cran à la bataille de Peleliu. Si remarquable que cela puisse paraître, son unité a été capturée pendant les premiers raids avant la principale invasion et il a passé 2 semaine dans une cage en bambou infestée de rats, dans une eau impaludée. Ca n'a pas arrêté Tank, loin de là. Après avoir rongé les barreaux de sa cage, il n'a échappé à ses ravisseurs que grâce à sa pince à cheveux et à sa médaille d'honneur, qu'il dissimule habilement dans diverses cavités corporelles.Vous savez maintenant qu'il n'y a pas d'avant ni d'après guerre pour Dempsey, il n'y a que la légende de Tank Dempsey et la manière dont il a gagné la guerre pour nous tous."
     }
   ],
-  "86": [
+  "85": [
     {
       "date": "EDWARD RICHTOFEN - ULTIMIS",
       "event": "\" Méfiez-vous du docteur \". Ce message a été gribouillé sur les murs de toutes les villes sous contrôle de l’Axe. La faim pourrait bien vous paralyser, la dysenterie vous anéantir, et les coups de feu vous arracher la chair, \" Méfiez-vous du docteur \". Voici le Dr Richtofen, affectueusement surnommé le Boucher par ses victimes avant qu’elles ne poussent leur dernier soupir après des heures d’agonie. Tout au long de sa carrière, Richtofen a toujours été à la pointe du progrès en matière de recherche sur la torture et l’extraction d’informations. Richtofen est un sociopathe incurable qui ne fait aucune distinction morale entre la mort naturelle et le meurtre. Une victime reste une victime, quelle que soit la façon dont la mort décide de frapper. Le Dr Richtofen possède une sympathique collection d’animaux empaillés, la plupart figés dans une expressions de terreur absolue face à la mort."
     }
   ],
-  "87": [
+  "86": [
     {
       "date": "NIKOLAI BELINSKI - ULTIMIS",
       "event": "Stalin lui-même ne pouvait regarder Nikolai dans les yeux, personne ne le pouvait. Dans ses yeux, vous verriez l'âme d'un homme brûlant avec la haîne de toute chose vivante. Son armoir est pleine de squelettes, beaucoup d'entre eux avec de la chair encore attachée. Très tôt dans sa carrière, Nikolai s'était hissé au sommet de la hièrarcie en tuant son supèrieur ou par mariage politique. Finalement, ses aspirations se sont écroulés après que sa cinquième femme mouru mystèrieusement pendant qu'elle nettoyé sa hache avec son cou. Ce qu'il ne savait pas c'est que sa femme couchée avec un officiel haut-placé du parti. Cela a rendu Nikolai tristement célèbre, sa mauvaise réputation s'est répandu rapidement à travers le parti. Il n'a pas fallu longtemps avant que Stalin lui-même ait entendu de Nikolai. Mais ce qui comptait vraiment, c'est qu'il craignait Nikolai. Dès que la guerre débuta, notre héros fut envoyé sur la ligne de front et fut oublié, où il s'est complaint dans l'apitoiment et la Vodka pour plusieurs années. Il y a beaucoup d'armes dans son arsenal, mais sa plus importante c'est son souffle."
     }
   ],
-  "88": [
+  "87": [
     {
       "date": "TAKEO MASAKI - ULTIMIS",
       "event": "Voici Takeo, pour qui la vie n’a pas de sens si ce n’est pour se perfectionner dans une discipline et révéler la véritable personnalité et l’honneur de quelqu’un. Il médite peut être sur ces questions et d’autres sujets philosophiques lorsque son katana découpe la chair de ses ennemis. Notre héros est né dans l’opulence. Sa dynastie familiale remonte à plusieurs siècle, et les différents membres de sa famille ont été des samouraïs et bushi réputés. Takeo ne fait pas exception dans cette célèbre lignée. Lorsque sa famille vit pour la première fois le jeune Takeo, âgé de 5 ans et plein de vie, jouer avec son katana et rancher la queue de chatons terrifiés, il ne faisait aucun doute que ce jeune garçons honorait toujours le nom des Masaki. La guerre fut une parfaite occasion pour Takeo, réfléchi et réservé, d’explorer son goût pour le sang et d’étudier la nature de ceux qui étaient moins bien nés que lui. Alors si vous tombez sous ses coups rapides et puissants, sachez que vous aurez aidé un homme meilleur que vous à atteindre le nirvana."
