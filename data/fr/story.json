@@ -131,10 +131,13 @@
     },
     {
       "date": "1er Aout 1940",
-      "event": "En réponse à la demande de Maxis, l'Allemagne crée deux nouvelles installations pour le Groupe 935. Ils sont la Facilité à Kino, un théâtre réutilisé et le l’Asile à Wittenau Sanatorium à Berlin."
+      "event": "En réponse à Maxis, l'Allemagne crée deux nouvelles"
     }
   ],
   "8": [
+    {
+      "event": "installations pour le Groupe 935. La Facilité à Kino, un théâtre réutilisé et l’Asile à Wittenau Sanatorium à Berlin."
+    },
     {
       "date": "18 Aout 1940",
       "event": "Selon la demande de l'Allemagne, l'Armée impériale japonaise remet la centrale du Rising Sun au groupe 935. La 9eme division reste impliquée sur le site."
@@ -150,13 +153,13 @@
     {
       "date": "24 Juin 1941",
       "event": "L'épouse de Nikolai Belinski est tuée lors de l'avance allemande dans l'Union soviétique. Dans un effort pour engourdir la douleur, Nikolai se tourne de plus en plus vers la vodka."
-    },
-    {
-      "date": "11 Janvier 1942",
-      "event": "Maxis donne Fluffy à Samantha. Le chien attend une portée."
     }
   ],
   "9": [
+    {
+      "date": "11 Janvier 1942",
+      "event": "Maxis donne Fluffy à Samantha. Le chien attend une portée."
+    },
     {
       "date": "20 Janvier 1942",
       "event": "Maxis teste le premier fichier pour le stockage sur le serveur de données."
@@ -167,7 +170,7 @@
     },
     {
       "date": "30 Janvier 1942",
-      "event": "Richtofen complète le prototype de Wunderwaffe DG-2."
+      "event": "Richtofen complète le prototype Wunderwaffe DG-2."
     },
     {
       "date": "1er Février 1942",
@@ -283,7 +286,7 @@
     },
     {
       "date": "14 Juillet 1944",
-      "event": "Après les revers avec le sujet Two-Six, Maxis signale de nouveaux succès avec l'armée des morts-vivants. Cependant, il constate sa conviction que les morts-vivants ne peuvent être contrôlés ou maintenus."
+      "event": "Après les revers avec le sujet Deux-Six, Maxis signale de nouveaux succès avec l'armée des morts-vivants. Cependant, il constate sa conviction que les morts-vivants ne peuvent être contrôlés ou maintenus."
     },
     {
       "date": "2 Septembre 1944",
@@ -486,13 +489,13 @@
     {
       "date": "11 Novembre 1962",
       "event": "Gersh commence ses travaux sur Project Thunder."
-    },
-    {
-      "date": "12 Décembre 1962",
-      "event": "Gersh et Yuri commencent à travailler sur l'appareil Gersh, codé le projet Mercury."
     }
   ],
   "29": [
+    {
+      "date": "12 Décembre 1962",
+      "event": "Gersh et Yuri commencent à travailler sur l'appareil Gersh, codé le projet Mercury."
+    },
     {
       "date": "15 Juin 1963",
       "event": "Le Pentagone commence son développement sur sa propre version de la Wunderwaffe DG-2."
@@ -503,14 +506,14 @@
     },
     {
       "date": "28 Octobre 1963 - KINO DER TOTEN",
-      "event": "Depuis Der Reise, Ultimis se téléporte vers Kino. Ceci marque la première fois que Ultimis parcourt l'espace et le temps. Des fissures temporels se produisent à travers les dimensions. Suite a ces développements, Monty se sent obligé de intervenir, et commence à apporter des changements en arrière-plan au fil du temps. Il aide le Groupe 935 à inventer des machines Perk. Il ajoute des dessins à la craie aux murs. Petits coups de pouce. Ultimis localise un Module lunaire et se dirige vers l'installation d'Ascension."
-    },
-    {
-      "date": "29 Octobre 1963",
-      "event": "Gersh informe les cadres supérieurs que Yuri a été retiré du projet Mercury et a été transféré à la recherche en roquettes."
+      "event": "Depuis Der Reise, Ultimis téléporte vers Kino. Ceci marque la 1ere fois qu'Ultimis parcourt l'espace-temps. Des fissures temporels se produisent à travers les dimensions. Suite a ces développements, Monty se sent obligé d'intervenir en apportant des changements au fil du temps. Il aide le Groupe 935 à inventer des machines d'atouts. Il ajoute des dessins à la craie aux murs. Petits coups de pouce. Ultimis localise un Module lunaire et se dirige vers l'installation d'Ascension."
     }
   ],
   "30": [
+    {
+      "date": "29 Octobre 1963",
+      "event": "Gersh informe les cadres supérieurs que Yuri a été retiré du projet Mercury et a été transféré à la recherche en roquettes."
+    },
     {
       "date": "29 Octobre 1963",
       "event": "Yuri commence à remarquer l'apparition de jouets pour enfants autour de l'installation."
@@ -531,11 +534,11 @@
     },
     {
       "date": "6 Novembre 1963 - ASCENSION",
-      "event": "Ultimis arrive au Cosmodrome soviétique et libère Gersh du mécanisme de Casimir. Richtofen récupère son journal et apprend qu'ils ont besoin de la machine Vril a la facilité de Sibérie pour son plan. Maintenant sa forme éthérée, Gersh les envoie dans une fissure vers leur prochaine destination avant de commencer ses voyages à travers l'espace et le temps."
+      "event": "Ultimis arrive au Cosmodrome soviétique et libère Gersh du mécanisme de Casimir. Richtofen récupère son journal et apprend qu'ils ont besoin du Vril a la facilité de Sibérie pour son plan. Maintenant sous sa forme éthérée, Gersh les envoie dans une fissure vers leur prochaine destination avant de commencer ses voyages à travers l'espace et le temps."
     },
     {
       "date": "6 Novembre 1963 - FIVE",
-      "event": "Dans le Pentagone, John F. Kennedy, Richard Nixon et Robert McNamara rencontrent Fidel Castro à la suite de la crise des missiles cubains. En raison des événements au cosmodrome, une éclosion de zombie se produit. Samantha envoie Yuri au Pentagone pour déjouer leur survie. Après que Gersh soit libéré et que Ultimis quitte le Cosmodrome, l'épidémie se termine au Pentagone. Tous les quatre survivent."
+      "event": "Au Pentagone, John F.Kennedy, Richard Nixon et Robert McNamara rencontrent Fidel Castro suite a la crise des missiles cubains. En raison des événements au cosmodrome, une épidemie de Zombies se produit. Samantha envoie Yuri au Pentagone pour empecher leur survie."
     }
   ],
   "32": [
@@ -552,7 +555,7 @@
     },
     {
       "date": "19 Septembre 1979",
-      "event": "Russman commence à travailler à Broken Arrow. Au cours de son emploi, sa forte exposition à l'élément 115 entraîne une perte importante de mémoire."
+      "event": "Russman commence à travailler à Broken Arrow. Au cours de son emploi, sa forte exposition à l'élément 115 entraîne une perte de mémoire."
     },
     {
       "date": "20 Avril 1983",
@@ -620,17 +623,17 @@
     },
     {
       "date": "27 Mars 2027",
-      "event": "Une société de survivants qui mangent les morts-vivants se forme. Ils sont La Chaire."
+      "event": "Une société de survivants qui mangent les morts-vivants se forme. Ils sont La chair."
     }
   ],
   "39": [
     {
       "date": "12 Mai 2027",
-      "event": "Samuel J. Stuhlinger rejoins La Chaire."
+      "event": "Samuel J. Stuhlinger rejoins La chair."
     },
     {
       "date": "18 Juin 2027",
-      "event": "Au travers de la mortelle consommation de viande, La Chaire commence à entendre la voix de Richtofen. Il essaie de les persuader de créer des appareils de polarisation globale pour lui dans la poursuite de son nouveau plan: réparer la fissure dans l'espace et acquérir un contrôle total sur l'Éther."
+      "event": "Au travers de la mortelle consommation de viande, La chair commence à entendre la voix de Richtofen. Il essaie de les persuader de créer des appareils de polarisation globale pour lui dans la poursuite de son nouveau plan: réparer la fissure dans l'espace et acquérir un contrôle total sur l'Éther."
     },
     {
       "date": "28 Juin 2027",
@@ -640,7 +643,7 @@
   "40": [
     {
       "date": "4 Avril 2028",
-      "event": "La Chaire diffusait leur message sur toutes les fréquences. Ils racontent à d'autres \"écouter notre appel\" et que le \"chemin vers l'Illuminatison\" peut être réalisé en consommant les morts-vivants."
+      "event": "La chair diffusait leur message sur toutes les fréquences. Ils racontent à d'autres \"écouter notre appel\" et que le \"chemin vers l'Illuminatison\" peut être réalisé en consommant les morts-vivants."
     },
     {
       "date": "9 Décembre 2028",
@@ -658,7 +661,7 @@
   "41": [
     {
       "date": "15 Aout 2029",
-      "event": "Une émission est envoyée confirmant la chute de \"La Chaire\" et les adeptes de Maxis. Chaque groupe ayant entendu la voix de Richtofen ou Maxis, une bataille éclate entre eux. Durant la bataille, une horde zombie est apparue et a détruit tous ceux qui sont restés. Stuhlinger est l'un des rares à s'échapper. Richtofen et Maxis ne reçoivent personne pour communiquer près de Green Run, où le premier appareil de polarisation doit être construit."
+      "event": "Une émission est envoyée confirmant la chute de \"La chair\" et les adeptes de Maxis. Chaque groupe ayant entendu la voix de Richtofen ou Maxis, une bataille éclate entre eux. Durant la bataille, une horde zombie est apparue et a détruit tous ceux qui sont restés. Stuhlinger est l'un des rares à s'échapper. Richtofen et Maxis ne reçoivent personne pour communiquer près de Green Run, où le premier appareil de polarisation doit être construit."
     },
     {
       "date": "13 Octobre 2035",
@@ -1070,7 +1073,7 @@
     },
     {
       "date": "21 Avril 1944",
-      "event": "Nero manque un appel de son avocat, l'informant que les documents ont été forgés et qu'il n'y a rien à craindre. Jack manque un appel de son partenaire, il s'occupe des affaires internes et Jack n'a rien à craindre. Floyd manque un appel de son promoteur selon lequel le combat a été une réussite et qu'il a une chance pour le titre."
+      "event": "Nero rate un appel de son avocat l'informant que les documents ont été forgés et qu'il n'y a rien à craindre. Jack rate un appel de son partenaire qui s'occupe des affaires et donc qu'il n'a rien à craindre. Floyd rate un appel de son promoteur selon lequel le combat a été une réussite et qu'il a une chance pour le titre."
     }
   ],
   "66": [
@@ -1099,7 +1102,7 @@
   "68": [
     {
       "date": "25 Avril 1944 - SHADOWS OF EVIL",
-      "event": "Nero, Jack, Floyd et Jessica sont frappés inconscient au Club Burlesque du Lac Noir. Ils se réveillent dans une version tordue de Morg City, légèrement décalée par rapport à la réalité. Le Shadowman leur dit qu'ils peuvent expier leurs péchés, les quatres sont forcés de realiser des rituels d'exécution. Jessica sacrifie son producteur, Jake sacrifie son partenaire, Floyd sacrifie son promoteur et Nero sacrifie son avocat. En complétant les rituels requis, les Apothicons ont accès à la Dimension 63. En réalisant qu'ils ont été dupés, les quatres travaillent avec les Veilleurs pour vaincre Le Shadowman. Ils le piégent dans la Clef d'Invocation, mais avant qu'ils puissent la remettre aux Veilleurs, Primis Richtofen arrive et vole la Clef d'Invocation. Richtofen se rend à la Dimension 2210 pour sécuriser une âme innocente de Richtofen . Il délivre l'âme à la Maison. Depuis l'interieur de la Clef d'invocation, le Shadowman déclare: \"Nous allons nous revoir ...\""
+      "event": "Nero, Jack, Floyd et Jessica sont frappés inconscient au Club Burlesque du Lac Noir. Ils se réveillent dans une version tordue de Morg City, décalée de la réalité. Le Shadowman leur dit qu'ils peuvent expier leurs péchés, les quatres sont forcés a des rituels. Jessica sacrifie son producteur, Jake son partenaire, Floyd son promoteur et Nero sacrifie son avocat. En complétant les rituels requis, les Apothicons ont accès à la Dimension 63. Ayant été dupés, les quatres travaillent avec les Veilleurs pour vaincre Le Shadowman. Ils le piégent dans la Clef d'Invocation, mais avant qu'ils puissent la remettre aux Veilleurs, Primis Richtofen arrive et vole la Clef. Richtofen se rend à la Dimension 2210 pour sécuriser une âme innocente de Richtofen . Il délivre l'âme à la Maison. Depuis l'interieur de la Clef, le Shadowman déclare: \"Nous allons nous revoir ...\""
     },
     {
       "date": "26 Avril 1944",
@@ -1290,7 +1293,7 @@
     {
       "date": "13 Septembre 1945",
       "event": "Cornelis tente d'envoyer une transmission à Peter Mccain. En lui disant de se rendre à l'installation abandonnée du Rising Sun."
-    }
+    },
     {
       "date": "18 Octobre 1945 - ZETSUBOU NO SHIMA",
       "event": "Primis prend l'âme de Takeos après qu'ils l'aident à commettre Seppuku. Richtofen prend l'équipe à la dimension 63 pour collecter son sang. Pour la police d'assurance, ils reviennent dans l'île avant de se rendre à leur prochaine destination."
@@ -1369,13 +1372,13 @@
     },
     {
       "date": "6 Novembre 1963",
-      "event": "Se cachant dans un placard au Pentagone, Mcnamara enregistre un message confirmant que John F. Kennedy, Richard Nixon et Fidel Castro sont morts à la suite d'une épidémie de zombies. Il meurt quelques instants plus tard."
+      "event": "Caché dans un placard au Pentagone, Mcnamara enregistre un message confirmant que John F.Kennedy, Nixon et Castro sont morts aux mains de zombies. Il meurt quelques instants plus tard."
     }
   ],
   "84": [
     {
       "date": "TANK DEMPSEY - ULTIMIS",
-      "event": "Un héros américain. Donnez-lui une belle femme, une arme chargée et une cible, et il sera heureux. Contrariez-le et il vous arrachera les boyaux pour s'en faire un collier. Dempsey a été choisi pour cette mission après avoir prouvé qu'il avait du cran à la bataille de Peleliu. Si remarquable que cela puisse paraître, son unité a été capturée pendant les premiers raids avant la principale invasion et il a passé 2 semaine dans une cage en bambou infestée de rats, dans une eau impaludée. Ca n'a pas arrêté Tank, loin de là. Après avoir rongé les barreaux de sa cage, il n'a échappé à ses ravisseurs que grâce à sa pince à cheveux et à sa médaille d'honneur, qu'il dissimule habilement dans diverses cavités corporelles.Vous savez maintenant qu'il n'y a pas d'avant ni d'après guerre pour Dempsey, il n'y a que la légende de Tank Dempsey et la manière dont il a gagné la guerre pour nous tous."
+      "event": "Un héros américain. Donnez-lui une belle femme, une arme chargée et une cible, et il sera heureux. Contrariez-le et il vous arrachera les boyaux pour s'en faire un collier. Dempsey a été choisi pour cette mission après avoir prouvé qu'il avait du cran à la bataille de Peleliu. Si remarquable que cela puisse paraître, son unité a été capturée pendant les premiers raids avant la principale invasion et il a passé 2 semaine dans une cage en bambou infestée de rats, dans une eau impaludée. Ca n'a pas arrêté Tank, loin de là. Après avoir rongé les barreaux de sa cage, il n'a échappé à ses ravisseurs que grâce à sa pince à cheveux et à sa médaille d'honneur, qu'il dissimule habilement dans diverses cavités corporelles. Vous savez maintenant qu'il n'y a pas d'avant ni d'après guerre pour Dempsey, il n'y a que la légende de Tank Dempsey et la manière dont il a gagné la guerre pour nous tous."
     }
   ],
   "85": [
@@ -1387,13 +1390,13 @@
   "86": [
     {
       "date": "NIKOLAI BELINSKI - ULTIMIS",
-      "event": "Stalin lui-même ne pouvait regarder Nikolai dans les yeux, personne ne le pouvait. Dans ses yeux, vous verriez l'âme d'un homme brûlant avec la haîne de toute chose vivante. Son armoir est pleine de squelettes, beaucoup d'entre eux avec de la chair encore attachée. Très tôt dans sa carrière, Nikolai s'était hissé au sommet de la hièrarcie en tuant son supèrieur ou par mariage politique. Finalement, ses aspirations se sont écroulés après que sa cinquième femme mouru mystèrieusement pendant qu'elle nettoyé sa hache avec son cou. Ce qu'il ne savait pas c'est que sa femme couchée avec un officiel haut-placé du parti. Cela a rendu Nikolai tristement célèbre, sa mauvaise réputation s'est répandu rapidement à travers le parti. Il n'a pas fallu longtemps avant que Stalin lui-même ait entendu de Nikolai. Mais ce qui comptait vraiment, c'est qu'il craignait Nikolai. Dès que la guerre débuta, notre héros fut envoyé sur la ligne de front et fut oublié, où il s'est complaint dans l'apitoiment et la Vodka pour plusieurs années. Il y a beaucoup d'armes dans son arsenal, mais sa plus importante c'est son souffle."
+      "event": "Stalin ne pouvait regarder Nikolai dans les yeux, personne ne le pouvait. Dans ses yeux, l'âme d'un homme brûlant avec la haîne de toute chose vivante. Son armoire est pleine de squelettes, beaucoup d'entre eux avec de la chair attachée. Très tôt dans sa carrière, Nikolai s'était hissé au sommet de la hièrarchie en tuant son supèrieur. Finalement, ses aspirations se sont écroulés après que la mort de sa 5eme femme, mystèrieusement lorsqu'elle nettoyait sa hache avec son cou. Ce qu'il ne savait pas c'est que sa femme couchait avec un officiel haut-placé du parti. Cela a rendu Nikolai tristement célèbre, sa mauvaise réputation s'étant répandu rapidement à travers le parti. Il ne fallu guere de temps avant que Stalin ait eu vent de Nikolai. Mais ce qui comptait vraiment, c'est qu'il le craignait. Dès le début de la Guerre notre héros fut envoyé sur la ligne de front et fut oublié, où il s'est plongé dans l'apitoiement et la Vodka pour des années. Beaucoup d'armes dans son arsenal, mais sa plus importante c'est son souffle."
     }
   ],
   "87": [
     {
       "date": "TAKEO MASAKI - ULTIMIS",
-      "event": "Voici Takeo, pour qui la vie n’a pas de sens si ce n’est pour se perfectionner dans une discipline et révéler la véritable personnalité et l’honneur de quelqu’un. Il médite peut être sur ces questions et d’autres sujets philosophiques lorsque son katana découpe la chair de ses ennemis. Notre héros est né dans l’opulence. Sa dynastie familiale remonte à plusieurs siècle, et les différents membres de sa famille ont été des samouraïs et bushi réputés. Takeo ne fait pas exception dans cette célèbre lignée. Lorsque sa famille vit pour la première fois le jeune Takeo, âgé de 5 ans et plein de vie, jouer avec son katana et rancher la queue de chatons terrifiés, il ne faisait aucun doute que ce jeune garçons honorait toujours le nom des Masaki. La guerre fut une parfaite occasion pour Takeo, réfléchi et réservé, d’explorer son goût pour le sang et d’étudier la nature de ceux qui étaient moins bien nés que lui. Alors si vous tombez sous ses coups rapides et puissants, sachez que vous aurez aidé un homme meilleur que vous à atteindre le nirvana."
+      "event": "Voici Takeo, pour qui la vie n’a pas de sens si ce n’est que pour se perfectionner dans une discipline et révéler la véritable personnalité et l’honneur de quelqu’un. Il médite peut être sur ces questions et d’autres sujets philosophiques lorsque son katana découpe la chair de ses ennemis. Notre héros est né dans l’opulence. Sa dynastie familiale remonte à plusieurs siècles, et les différents membres de sa famille ont été Samouraïs et Bushi réputés. Takeo ne fait pas exception dans cette célèbre lignée. Lorsque sa famille vut pour la 1ere fois le jeune Takeo, âgé de 5 ans et plein de vie jouer avec son katana et trancher la queue de chatons terrifiés, il ne faisait aucun doute que ce jeune garçon honorerait toujours le nom des Masaki. La guerre fut une parfaite occasion pour Takeo, réfléchi et réservé, d’explorer son goût pour le sang et d’étudier la nature de ceux qui étaient moins bien nés que lui. Alors si vous tombez sous ses coups rapides et puissants, sachez que vous aurez aidé un homme meilleur que vous à atteindre le nirvana."
     }
   ]
 }
