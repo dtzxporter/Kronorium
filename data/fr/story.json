@@ -53,7 +53,7 @@
       "event": "Maxis forme le groupe 935, une organisation internationale dédiée à l'étude de l'élément 115. Maxis dit à ses scientifiques qu'ils \"représentent l'avenir de l'avancement technologique\" et seront \"les pionniers de la découverte humaine\". Le groupe jure de travailler dans le secret de leurs gouvernements respectifs. Comme le dit Maxis, \"nous ne pouvons pas nous permettre de laisser ce pouvoir tomber dans les mauvaises mains\""
     },
     {
-      "date": "5 Novembre 1934"
+      "date": "5 Novembre 1934",
       "event": "Samantha Maxis est née. Sa mère décède lors de l’accouchement."
     }
   ],
@@ -110,13 +110,13 @@
     {
       "date": "5 Janvier 1940",
       "event": "Richtofen est adoré par les indigènes de Shangri-La: un autel est construit en son nom. Richtofen découvre la Pierre de Convergence pour la première fois."
-    },
-    {
-      "date": "23 Janvier 1940",
-      "event": "Après environ un mois d'absence, Richtofen revient au près de Schuster avec comme plan de construire la Station Griffon."
     }
   ],
   "7": [
+    {
+      "date": "23 Janvier 1940",
+      "event": "Après environ un mois d'absence, Richtofen revient au près de Schuster avec comme plan de construire la Station Griffon."
+    },
     {
       "date": "24 Janvier 1940",
       "event": "Richtofen quitte les Illuminatis. Lorsqu'on lui a demandé comment il pouvait abandonner son obligation envers l'Ordre, il dit: \"Teddy est un menteur.\""
@@ -127,16 +127,16 @@
     },
     {
       "date": "13 Juillet 1940",
-      "event": "Maxis demande à son assistante Sophia d'écrire une lettre au Haut Commandement du Reichstag pour demander des fonds supplémentaires. Bien qu'il rapporte que la production en série sera prochainement en cours, Der Riese manque non seulement de financements, mais aussi d'une quantité insuffisante d'élément 115."
-    },
-    {
-      "date": "1er Août 1940",
-      "event": "En réponse à Maxis, l'Allemagne crée deux nouvelles"
-    }
+      "event": "Maxis demande à son assistante Sophia d'écrire une lettre au Haut Commandement du Reichstag pour demander des fonds supplémentaires. Bien qu'il rapporte que la production en série sera prochainement en cours, Der Riese manque non"
+	}
   ],
   "8": [
     {
-      "event": "installations pour le Groupe 935. Le site de Kino, un théâtre réutilisé et le site de l’asile au sanatorium de Wittenau à Berlin."
+      "event": "seulement de financements, mais aussi d'une quantité insuffisante d'élément 115."
+    },
+    {
+      "date": "1er Août 1940",
+      "event": "En réponse à Maxis, l'Allemagne crée deux nouvelles installations pour le Groupe 935. Le site de Kino, un théâtre réutilisé et le site de l’asile au sanatorium de Wittenau à Berlin."
     },
     {
       "date": "18 Août 1940",
@@ -149,13 +149,13 @@
     {
       "date": "6 Novembre 1940",
       "event": "Le groupe 935 établit un centre de recherche au Château \"Der Eisendrache\""
-    },
-    {
-      "date": "24 Juin 1941",
-      "event": "L'épouse de Nikolai Belinski est tuée lors de l'avancée allemande en l'Union soviétique. Dans un effort pour faire son deuil , Nikolai se tourne de plus en plus vers la vodka."
     }
   ],
   "9": [
+    {
+      "date": "24 Juin 1941",
+      "event": "L'épouse de Nikolai Belinski est tuée lors de l'avancée allemande en l'Union soviétique. Dans un effort pour faire son deuil , Nikolai se tourne de plus en plus vers la vodka."
+    },
     {
       "date": "11 Janvier 1942",
       "event": "Maxis offre Fluffy à Samantha. La chienne attend une portée."
@@ -171,13 +171,13 @@
     {
       "date": "30 Janvier 1942",
       "event": "Richtofen termine le prototype Wunderwaffe DG-2."
-    },
-    {
-      "date": "1er Février 1942",
-      "event": "Avec la finalisation de la Station Griffon, Richtofen nomme le Docteur Groph comme responsable scientifique et retourne sur Terre pour continuer sa mascarade avec Maxis. Travaillant aux côtés de Schuster, Groph est désigné pour découvrir le fonctionnement du MDP."
     }
   ],
   "10": [
+    {
+      "date": "1er Février 1942",
+      "event": "Avec la finalisation de la Station Griffon, Richtofen nomme le Docteur Groph comme responsable scientifique et retourne sur Terre pour continuer sa mascarade avec Maxis. Travaillant aux côtés de Schuster, Groph est désigné pour découvrir le fonctionnement du MDP."
+    },
     {
       "date": "2 Février 1942",
       "event": "Dans un discours à son équipe, Groph parle avec optimisme de la Station Griffin comme base permanente d'opérations."
@@ -185,7 +185,9 @@
     {
       "date": "17 Avril 1942",
       "event": "Maxis développe un prototype de Pistolet Laser sur le site de Rising Sun. H. Porter travaille sur le développement d'un modèle de 2ème génération."
-    },
+    }
+  ],
+  "11": [
     {
       "date": "13 Juin 1942",
       "event": "Suite aux fissures temporelles de 1963 sur Kino, Monty traverse le temps et apporte des petits coup de pouces. L’un d’eux étant d'aider le groupe 935 à créer des élixirs à base d’élément 115. Ils créent quatre boissons médicinales connues sous le nom de Mastodonte, Réanimation rapide, Cola énergisant et Double Coup."
@@ -193,16 +195,19 @@
     {
       "date": "28 Juin 1942",
       "event": "Le groupe 935 poursuit le développement d'une machine d'amélioration des armes."
-    }
-  ],
-  "11": [
+    },
     {
       "date": "18 Juillet 1942",
       "event": "Groph et Schuster découvrent involontairement comment charger le MDP. Lorsque Schuster tue un rat à proximité de l'appareil, sa mort commence à remplir inexplicablement le réservoir, en chargeant l'appareil. Ils font un rapport à Richtofen."
     },
     {
       "date": "20 Juillet 1942",
-      "event": "Richtofen envoie des soldats et des scientifiques sur la lune pour être sacrifiés. Leurs âmes servent à charger le MDP."
+      "event": "Richtofen envoie des soldats et des scientifiques sur la lune pour être sacrifiés. Leurs âmes serviront"
+	}
+  ],
+  "12": [
+    {
+      "event": "à charger le MDP."
     },
     {
       "date": "5 Novembre 1942",
@@ -211,9 +216,8 @@
     {
       "date": "8 Décembre 1942",
       "event": "Richtofen partage les recettes d'élixirs à base d'élément 115 avec la Station Griffon. Ils développent Coup de pied arrière."
-    }
-  ],
-  "12": [
+    },
+
     {
       "date": "9 Décembre 1942",
       "event": "Le frère de Nikolaï est tué dans la bataille de Stalingrad."
@@ -221,7 +225,9 @@
     {
       "date": "14 Décembre 1942",
       "event": "Richtofen crée les bombes singe."
-    },
+    }
+  ],
+  "13": [	
     {
       "date": "16 Décembre 1942",
       "event": "Dans un journal personnel, Maxis exprime sa préoccupation face à l'impact de l'élément 115 sur le comportement de Richtofen. Ne lui faisant plus confiance, il se demande si c'est une erreur de l'avoir invité au Groupe 935."
@@ -233,13 +239,14 @@
     {
       "date": "8 Janvier 1943",
       "event": "Maxis s'inquiète que lui et Sophia ne soient devenus trop proches. Il se demande si il devrait l'envoyer autre part."
-    }
-  ],
-  "13": [
+    },
+
     {
       "date": "16 Janvier 1943",
       "event": "Nikolai est capturé par les forces allemandes pendant la bataille de Stalingrad. Il devient un sujet d'expérience du groupe 935."
-    },
+    }
+  ],
+  "14": [	
     {
       "date": "27 Janvier 1943",
       "event": "Maxis fait un rapport sur le succès avec le sujet Deux-Six, dont les \"explosions de violences ont été considérablement réduites.\" Maxis croit que \"cette méthode de traitement sera 100% efficace dans la plupart des cas.\""
@@ -251,9 +258,8 @@
     {
       "date": "10 Février 1943",
       "event": "Maxis rapporte que le traitement a été perfectionné. Il croit que si \"le sujet Deux-Six peut conserver ses effets sur plus de vingt-six heures, la livraison de l'armée zombie peut être accélérée.\""
-    }
-  ],
-  "14": [
+    },
+
     {
       "date": "12 Février 1943",
       "event": "Après avoir attaqué un employé, le sujet Deux-Six est tué et considéré comme un \"nouvel échec.\""
@@ -261,7 +267,9 @@
     {
       "date": "18 Mai 1943",
       "event": "Harvey Yena commence son travail avec le Groupe 935."
-    },
+    }
+	  ],
+  "15": [
     {
       "date": "4 Juin 1943",
       "event": "Primis arrive depuis la Dimension 63. Afin d’éviter les événements qui se déroulent, ils mettent au point un plan pour arrêter le Richtofen de cette dimension."
@@ -269,9 +277,8 @@
     {
       "date": "11 Juin 1943",
       "event": "Richtofen est contacté par Maxis, qui l’avertit que \"les sujets de test ne doivent jamais être réveillés, les ravages qui pourraient être causés sur le futur par des individus aussi primitif seraient catastrophiques.\""
-    }
-  ],
-  "15": [
+    },
+
     {
       "date": "15 Juin 1943",
       "event": "Takeo rapporte à l'empereur que le travail effectué à l'installation Rising Sun est \"inacceptable\"."
@@ -283,7 +290,9 @@
     {
       "date": "24 Juin 1943",
       "event": "Sur les ordres de l'Empereur, Takeo est fait prisonnier par le Groupe 935 et la Division 9. Il est utilisé comme sujet d'essai pour des expériences."
-    },
+    }
+	  ],
+  "16": [
     {
       "date": "14 Juillet 1944",
       "event": "Après les échecs du sujet Deux-Six, Maxis signale de nouveaux succès avec l'armée des morts-vivants. Cependant, il reste convaincu que les morts-vivants ne peuvent être contrôlés ou conservés."
@@ -291,13 +300,14 @@
     {
       "date": "2 Septembre 1944",
       "event": "Pablo Manius, un espion mexicain, est capturé par le groupe 935 au Château \"Der Eisendrache\"."
-    }
-  ],
-  "16": [
-    {
-      "date": "*9 Mai 1945",
-      "event": "Dans sa cellule, Pablo écrit les visions d'une grande guerre. Il décrit une \"grande bataille contre d'étranges créatures démoniaques qui essayaient de dévorer la Terre\". Dans sa vision, il voit quatre chevaliers le protéger contre une mort certaine. Il note que les chevaliers portaient des tuniques semblables à celles de \"Der Eisendrache\"."
     },
+
+    {
+      "date": "9 Mai 1945",
+      "event": "Dans sa cellule, Pablo écrit les visions d'une grande guerre. Il décrit une \"grande bataille contre d'étranges créatures démoniaques qui essayaient de dévorer la Terre\". Dans sa vision, il voit quatre chevaliers le protéger contre une mort certaine. Il note que les chevaliers portaient des tuniques semblables à celles de \"Der Eisendrache\"."
+    }
+	  ],
+  "17": [
     {
       "date": "4 Juin 1945 - NATCH DER UNTOTEN",
       "event": "Le dysfonctionnement d’un avion allié le fait s’écraser sur un aérodrome. Des camions de l'armée allemande, transportant des morts-vivants et de l'élément 115 entre les installations du groupe 935 sont frappés dans l'accident. Les Marines survivant de l'accident résistent aux morts-vivants aussi longtemps qu'ils le peuvent."
@@ -305,17 +315,17 @@
     {
       "date": "17 Juin 1945",
       "event": "Peter McCain s'infiltre dans le groupe 935 à \"Der Riese\"."
-    }
-  ],
-  "17": [
+    },
     {
       "date": "29 Juin 1945",
-      "event": "Les docteurs Groph et Schuster développent le Wave Gun"
+      "event": "Les dr Groph et Schuster développent le Wave Gun"
     },
     {
       "date": "15 Juillet 1945",
       "event": "Richtofen se rend au complexe situé en Sibérie pour faire d'autres recherches sur des \"spécimens vivants\". En tant que responsable temporaire de Samantha,, il la prend avec lui. Le groupe 935 fait transférer trois sujets de test pour l'expérimentation: Nikolai, Pablo et Takeo."
-    },
+    }
+	  ],
+  "18": [
     {
       "date": "29 Juillet 1945",
       "event": "Alors que Richtofen travaille au complexe situé en Sibérie, le Groupe 935 commence le développement du Daiquiri mortel."
@@ -323,9 +333,7 @@
     {
       "date": "1er Août 1945",
       "event": "Les sujets de test arrivent au complexe de Sibérie pour les expériences de Richtofen."
-    }
-  ],
-  "18": [
+    },
     {
       "date": "31 Août 1945",
       "event": "Un gestionnaire de la CIA, Cornelius Pernell, confirme que Peter McCain a infiltré avec succès le groupe 935 et qu'il a été transféré au complexe de l’Asile. Cornelius s’inquiète que le Groupe 935 perde le contrôle de leurs expériences et fait envoyer une unité de reconnaissances des Marine pour extraire McCain. Tank Dempsey est le chef de l'escouade."
@@ -333,13 +341,13 @@
     {
       "date": "1er Septembre 1945",
       "event": "Peter est démasqué par le groupe 935 et est capturé."
-    },
+    }
+	  ],
+  "19": [
     {
       "date": "2 Septembre 1945",
       "event": "Richtofen fait un rapport sur la mort de Pablo suite à une suppression de la rate. Il révèle aussi qu'il effectue des expériences sur Samantha. La Seconde Guerre mondiale se termine. Le groupe 935 poursuit ses recherches. Des fissures temporelles commence à affecter l'installation de l'Asile. Des rapports indiquant des problèmes avec les sujets de test augmentent."
-    }
-  ],
-  "19": [
+    },
     {
       "date": "2 Septembre 1945",
       "event": "Beaucoup dans l'établissement ont commencé à entendre des voix venant des murs, y compris les sanglots d'un garçon et une fille, des hurlements, et \"un homme criant pour que les enfants ferment les fenêtres.\""
@@ -350,14 +358,17 @@
     },
     {
       "date": "6 Septembre 1945 - VERRUCKT",
-      "event": "Dempsey, John Banana, Smokey et un quatrième marine arrivent à l'Asile et le trouve envahie par des zombies. Ils se battent contre la horde aussi longtemps qu'ils le peuvent. Dempsey est appréhendé par le groupe 935."
+      "event": "Dempsey, John Banana, Smokey et un quatrième marine arrivent à l'Asile et le trouve envahie par des"
+	}
+  ],
+  "20": [
+    {  
+      "event": "zombies. Ils se battent contre la horde aussi longtemps qu'ils le peuvent. Dempsey est appréhendé par le groupe 935."
     },
     {
       "date": "7 Septembre 1945",
       "event": "John Banana écrit des messages et enregistre ses derniers mots tout en étant mangé vivant par Smokey, transformé en morts-vivant."
-    }
-  ],
-  "20": [
+    },
     {
       "date": "10 Septembre 1945",
       "event": "Richtofen rapporte qu'un autre espion a été capturé et remplacera \"le mexicain\". Le sujet est Dempsey."
@@ -412,7 +423,7 @@
   "24": [
     {
       "date": "13 Octobre 1945",
-      "event": "Samantha est téléportée vers la lune alors que Groph et Schuster travaillent sur le MDP. En entrant dans le MDP, elle est attirée à l'intérieur de celui-ci, où elle est corrompue par l'Éther Noir. Maxis est téléporté vers la Crazy Place et développe le pouvoir de fusionner avec l'électricité. Richtofen retourne sur la lune. En apprenant que Samantha est piégée dans le MDP, il ordonne à Groph de téléporter Maxis ici pour entraîner Samantha hors de l'appareil. Il avertit également Groph de rester attentif au \"chien maléfique\.""
+      "event": "Samantha est téléportée vers la lune alors que Groph et Schuster travaillent sur le MDP. En entrant dans le MDP, elle est attirée à l'intérieur de celui-ci, où elle est corrompue par l'Éther Noir. Maxis est téléporté vers la Crazy Place et développe le pouvoir de fusionner avec l'électricité. Richtofen retourne sur la lune. En apprenant que Samantha est piégée dans le MDP, il ordonne à Groph de téléporter Maxis ici pour entraîner Samantha hors de l'appareil. Il avertit également Groph de rester attentif au \"chien maléfique\"."
     }
   ],
   "25": [
